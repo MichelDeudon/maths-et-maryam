@@ -4,23 +4,41 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Accueil
     url: '/'
     weight: 10
-  - name: Courses
+  - name: Projets
     weight: 20
-    identifier: courses
-  - name: Data science
-    PageRef: course/data-science/_index.md
+    identifier: cours
+  - name: Roller Dance Montpellier
+    PageRef: c/roller/_index.md
     weight: 10
-    parent: courses
-  - name: Robotics
-    PageRef: course/robotics/_index.md
+    parent: cours
+  - name: Prépa Anglais
+    PageRef: c/english/_index.md
     weight: 20
-    parent: courses
-  - name: Blog
-    PageRef: post/_index.md
+    parent: cours
+  - name: Prépa Mathématiques
+    PageRef: c/maths/_index.md
     weight: 30
-  - name: Contact
-    PageRef: contact/index.md
+    parent: cours
+  - name: Prépa Physique-Chimie
+    PageRef: c/physique-chimie/_index.md
+    weight: 40
+    parent: cours
+  - name: Numérique et Ecologie
+    PageRef: c/numerique-ecologie/_index.md
+    weight: 50
+    parent: cours
+  - name: Vie Associative
+    PageRef: asso/_index.md
+    weight: 40
+  - name: Blog
+    PageRef: p/_index.md
+    weight: 50
+  - name: 
+    params:
+      rel: external
+    pre: <i class="fa fa-heart"></i>
+    url: https://www.helloasso.com/associations/maths-et-maryam
     weight: 60

@@ -1,22 +1,22 @@
 # Languages
 #   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
+#   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+fr:
+  languageCode: fr
+  # Uncomment for multi-lingual sites, and move French content into `fr` sub-folder.
+  #contentDir: content/fr
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
+#en:
+#  languageCode: en-US
+#  contentDir: content/en
+#  title: Mtp Cours
 #  params:
-#    description: Site description in Chinese...
+#    description: Professionnal trainings and tutoring in mathematics, physics and chemistry in Montpellier
 #  menu:
 #    main:
-#      - name: 传
-#        url: '#about'
+#      - name: en
+#        url: '#'
 #        weight: 1
