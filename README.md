@@ -12,8 +12,7 @@
 </p>
 
 ## URL
-- [https://michel-deudon.netlify.app/](https://michel-deudon.netlify.app/)
-- [https://www.mathsetmaryam.fr/](https://www.mathsetmaryam.fr/)
+[https://www.mathsetmaryam.fr/](https://www.mathsetmaryam.fr/)
 
 ## Credits
 - Website created using the open source [**Hugo Online Course Template**](https://github.com/wowchemy/starter-hugo-online-course)

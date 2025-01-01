@@ -8,7 +8,7 @@ design:
 ---
 
 C'est l'<b>hiver</b> ⛄.
-Joyeuses fêtes et bonne année 2025!
+Joyeuses fêtes et bonne année 2025.
 Le [soutien scolaire](https://www.mathsetmaryam.fr/asso/soutien-scolaire-montpellier/) reprendra à partir du 16 janvier 2025 pour les adhérents de l'association: le jeudi de 17h à 19h à la <b>Maison Pour Tous Louis Feuillade</b> (public collège et primaire), le vendredi de 17h à 19h à la <b>Médiathèque Pierresvives</b> (public lycée), et le dimanche de 10h30 à 12h30 et 14h30 à 16h30 à l'<b>association ASSAMR34</b>.
 Les [entrainements de roller danse](https://www.mathsetmaryam.fr/c/roller/) et [sorties à la patinoire](https://www.mathsetmaryam.fr/p/patinoire-vegapolis/) reprennent progressivement cet hiver pour les adhérents de l'association. 😊
 <!--

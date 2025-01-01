@@ -57,14 +57,14 @@ jobs:
           path: ./public
 
   # Deploy website to GitHub Pages hosting
-  deploy:
-    if: github.repository_owner != 'HugoBlox'
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+  #deploy:
+  #  if: github.repository_owner != 'HugoBlox'
+  #  environment:
+  #    name: github-pages
+  #    url: ${{ steps.deployment.outputs.page_url }}
+  #  runs-on: ubuntu-latest
+  #  needs: build
+  #  steps:
+  #    - name: Deploy to GitHub Pages
+  #      id: deployment
+  #      uses: actions/deploy-pages@v2
