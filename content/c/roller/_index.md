@@ -17,9 +17,12 @@ tags:
   - La Mosson
   - Montpellier
   - Hérault
+image:
+  placement: 1
+  focal_point: 'Top'
+  preview_only: false
+  alt_text: Sortie roller dance pendant les JO 2024 devant la médiathèque Pierresvives.
 ---
-
-{{< figure src="featured.png" caption="Cours collectifs de roller dance pendant les JO 2024 devant la médiathèque Pierresvives.">}}
 
 ## Introduction
 Un jeune sur deux propose [des sorties et des pratiques sportives](https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier) comme alternative à l’ennui, donc aux [écrans](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf). Ainsi, après avoir organisé plusieurs ateliers de [prévention santé écran](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/) au centre social CAF et à l’université Paul Valéry, l’association Maths et Maryam s'engage pour la jeunesse, en particulier durant l'été pour les jeunes qui ne partent pas en vacances. Nous organisons des <b>entrainements de roller danse</b> et des activités d'<b>éducation populaire</b>, ludiques et éducatives. Nous prévoyons aussi d'organiser 2-3 événements phares dans l'année promouvant la <b>mixité sociale</b> et la <b>cohésion du quartier</b>.

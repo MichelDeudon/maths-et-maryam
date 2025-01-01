@@ -16,9 +16,12 @@ tags:
   - Soutien Scolaire
   - Montpellier
   - Hérault
+image:
+  placement: 1
+  focal_point: 'Smart'
+  preview_only: false
+  alt_text: Yellow taxi cabs in New York City.
 ---
-
-{{< figure src="featured.jpg" >}}
 
 ## Program overview
 

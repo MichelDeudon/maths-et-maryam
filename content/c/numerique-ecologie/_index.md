@@ -17,9 +17,12 @@ tags:
   - Société
   - Santé
   - Environnement
+image:
+  placement: 1
+  focal_point: 'Smart'
+  preview_only: false
+  alt_text: Source image [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/).
 ---
-
-{{< figure src="featured.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/).">}}
 
 {{< toc hide_on="xl" >}}
 

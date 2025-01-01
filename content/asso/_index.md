@@ -15,9 +15,12 @@ tags:
   - La Mosson
   - Montpellier
   - Hérault
+image:
+  placement: 1
+  focal_point: 'Smart'
+  preview_only: false
+  alt_text: Goûter de pré rentrée au parc Sophie Desmarets le 31 août 2024.
 ---
-
-{{< figure src="featured.png" caption="Goûter de pré rentrée au parc Sophie Desmarets le 31 août 2024, jeux d'eau et atelier de peinture.">}}
 
 ## Campagnes d'action
 

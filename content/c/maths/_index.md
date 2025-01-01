@@ -27,9 +27,12 @@ tags:
   - Soutien Scolaire
   - Montpellier
   - Hérault
+image:
+  placement: 1
+  focal_point: 'Bottom'
+  preview_only: false
+  alt_text: Illustration de la diffraction de la lumière par un prisme.
 ---
-
-{{< figure src="featured.jpg" caption="Illustration de la diffraction de la lumière par un prisme.">}}
 
 ## Présentation
 

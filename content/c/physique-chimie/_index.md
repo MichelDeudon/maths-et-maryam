@@ -24,9 +24,12 @@ tags:
   - Soutien Scolaire
   - Montpellier
   - Hérault
+image:
+  placement: 1
+  focal_point: 'Top'
+  preview_only: false
+  alt_text: Photo d'un Martin Pêcheur.
 ---
-
-{{< figure src="featured.jpg" caption="Photo d'un Martin Pecheur." >}}
 
 ## Présentation
 
