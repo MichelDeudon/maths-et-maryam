@@ -9,9 +9,7 @@ tags:
   - Intelligence Artificielle
   - Désinformation
   - Nouveaux Imaginaires
-  - Société
   - Santé
-  - Environnement
   - Prévention écrans
 image:
   placement: 1

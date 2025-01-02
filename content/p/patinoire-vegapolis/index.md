@@ -2,11 +2,10 @@
 title: Sorties patinoires à Montpellier
 date: 2024-12-25
 tags:
-- Patin à glace
-- Patinoire Vegapolis
 - Santé
 - Sport
-- Prévention écrans
+- La Paillade
+- La Mosson
 ---
 
 À la patinoire Vegapolis.

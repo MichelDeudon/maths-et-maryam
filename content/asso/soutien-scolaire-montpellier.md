@@ -9,7 +9,7 @@ tags:
 - Aide en mathématiques
 - Association cours de maths
 - Cours de maths Montpellier
-- Soutien Scolaire Montpellier
+- Soutien scolaire Montpellier
 ---
 
 Pour bien préparer son année.

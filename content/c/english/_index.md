@@ -8,7 +8,8 @@ tags:
   - Anglais
   - Brevet
   - Baccalauréat
-  - Soutien Scolaire Montpellier
+  - Aide au devoir Montpellier
+  - Soutien scolaire Montpellier
 image:
   placement: 1
   focal_point: 'Smart'

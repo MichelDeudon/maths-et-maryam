@@ -9,7 +9,6 @@ tags:
   - Sciences participatives
   - Conseils Pratiques
   - Santé
-  - Environnement
   - Prévention écrans
 ---
 

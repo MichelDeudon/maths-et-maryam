@@ -5,8 +5,8 @@ tags:
 - Brevet
 - Baccalauréat
 - Master
-- Soutien Scolaire Montpellier
-- Soutien Scolaire Maths
+- Soutien scolaire Montpellier
+- Soutien scolaire Maths
 - Association cours de maths
 - Cours de Maths Montpellier
 ---

@@ -8,8 +8,6 @@ tags:
   - Innovations
   - Récits de la transition
   - Sciences participatives
-  - Société
-  - Environnement
 ---
 
 Pour un numérique responsable.

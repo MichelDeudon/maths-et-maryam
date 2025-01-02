@@ -8,7 +8,7 @@ tags:
   - Cours de maths Montpellier
   - Association cours de maths
   - Aide au devoir Montpellier
-  - Soutien Scolaire Montpellier
+  - Soutien scolaire Montpellier
 ---
 
 Vues en roller danse.

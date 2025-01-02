@@ -11,7 +11,7 @@ tags:
   - Association cours de maths
   - Aide en mathématiques
   - Aide au devoir Montpellier
-  - Soutien Scolaire Montpellier
+  - Soutien scolaire Montpellier
 image:
   placement: 1
   focal_point: 'Top'

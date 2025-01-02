@@ -7,7 +7,7 @@ tags:
 - Histoire
 - Science
 - Tutorat
-- Soutien Scolaire Montpellier
+- Soutien scolaire Montpellier
 - La Paillade
 - La Mosson
 ---

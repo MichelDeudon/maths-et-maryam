@@ -13,6 +13,8 @@ tags:
   - Reparation Roller
   - Tuto Roller
   - Association cours de maths
+  - Santé
+  - Sport
 image:
   placement: 1
   focal_point: 'Top'

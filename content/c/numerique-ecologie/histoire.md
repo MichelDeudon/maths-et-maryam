@@ -7,8 +7,6 @@ highlight: true
 tags:
   - Réseaux Sociaux
   - Intelligence Artificielle
-  - Société
-  - Environnement
 ---
 
 De 1843 à aujourd'hui, les femmes sont pionnières et invisibilisées.

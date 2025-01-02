@@ -7,7 +7,7 @@ type: book
 image:
 tags:
   - Math Montpellier
-  - Soutien Scolaire Montpellier
+  - Soutien scolaire Montpellier
   - Brevet
   - Baccalauréat
   - Master

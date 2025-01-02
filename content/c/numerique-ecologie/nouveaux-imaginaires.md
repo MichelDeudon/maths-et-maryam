@@ -8,8 +8,6 @@ tags:
   - Innovations
   - Récits de la transition
   - Sobriété Numérique
-  - Société
-  - Environnement
   - Prévention écrans
   - Nouveaux Imaginaires
 ---
