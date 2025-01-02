@@ -5,7 +5,6 @@ type: book
 weight: 30
 highlight: true
 tags:
-  - Jeunes
   - Santé
   - Prévention écrans
 ---
