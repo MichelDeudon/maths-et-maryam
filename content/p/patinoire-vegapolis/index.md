@@ -21,13 +21,11 @@ tags:
 
 ## Sorties patinoires en 2024
 
-{{< video src="patinoire-2024.mp4" controls="yes" >}}
-
 Le mercedi 30 octobre et lundi 30 décembre 2024, nous avons organisé une sortie à la [patinoire Vegapolis](https://www.vegapolis.fr/) avec 12-13 jeunes, de 8 à 14 ans, avec l'association ASSAMR34 et trois bénévoles de l'association Maths et Maryam. 
 
-Merci à l'équipe de la patinoire pour l'accueil avec les enfants et à Antea, en master Droits des Enfants, qui nous a accompagnés pour la sortie !
+{{< video src="patinoire-2024.mp4" controls="yes" >}}
 
-{{< figure src="roller/sorties-patinoire-vegapolis-montpellier.png" caption="Affiches pour la sortie du 30 octobre et 30 décembre 2024.">}} 
+Merci à l'équipe de la patinoire pour l'accueil avec les enfants et à Antea, en master Droits des Enfants, qui nous a accompagnés pour la sortie !
 
 ## Retour des jeunes et parents
 
