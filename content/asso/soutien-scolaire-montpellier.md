@@ -5,27 +5,11 @@ type: book
 weight: 10
 highlight: true
 tags:
-- Jeunes
-- Primaire
-- Collège
-- Lycée
-- Français
-- Anglais
-- Mathématiques
-- Physique Chimie
-- Histoire Géo
-- Méthodologie
-- Brevet
-- Baccalauréat
-- Prépa
-- Licence
-- Master
-- Cours collectifs
-- Soutien Scolaire
-- La Paillade
-- La Mosson
-- Montpellier
-- Hérault
+- Aide au devoir Montpellier
+- Aide en mathématiques
+- Association cours de maths
+- Cours de maths Montpellier
+- Soutien Scolaire Montpellier
 ---
 
 Pour bien préparer son année.
@@ -38,13 +22,13 @@ Pour bien préparer son année.
 
 ## Public
 
-De la primaire au collège, lycée et études supérieures.
+De la primaire au collège, lycée et études supérieures (prépa, licence, master).
 
 ## Matières
 
-Français, Anglais, Histoire Geo, Philo. <br>
-Mathématiques, Physique Chimie, SVT, Info. <br>
-Métholodogie, Orientation, etc.
+* Littéraires: Français, Anglais, Histoire Geo, Philo.
+* Scientifiques: Mathématiques, Physique Chimie, SVT, Info.
+* Métholodogie, Orientation, etc.
 
 <!-- 
 ## Stage de pré-rentrée 2024-2025

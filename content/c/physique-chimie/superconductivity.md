@@ -4,10 +4,8 @@ date: '2023-01-29'
 type: book
 weight: 40
 tags:
-  - Physique Chimie
+  - Prépa Physique Chimie
   - Superconductivité
-  - Licence
-  - Master
 ---
 
 Des paires de Coopers aux basses températures (L3).

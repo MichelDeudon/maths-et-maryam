@@ -5,7 +5,6 @@ type: book
 weight: 40
 highlight: true
 tags:
-  - Jeunes
   - Primaire
   - Collège
   - Lycée
@@ -13,8 +12,6 @@ tags:
   - Conseils Pratiques
   - Société
   - Environnement
-  - La Paillade
-  - La Mosson
   - Montpellier
   - Hérault
 ---

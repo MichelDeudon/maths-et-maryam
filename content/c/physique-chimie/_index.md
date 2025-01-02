@@ -5,25 +5,14 @@ summary: Cours collectifs de physique chimie et soutien scolaire de la primaire 
 date: '2023-04-10'
 type: book
 tags:
-  - Jeunes
-  - Physique Chimie
-  - Intuition
-  - Logique
+  - Prépa Physique Chimie
   - Collège
   - Lycée
   - Brevet
   - Baccalauréat
-  - BTS
   - Prépa
-  - CPGE
-  - CPES
-  - Licence
   - Master
-  - Cours particuliers
-  - Cours collectifs
-  - Soutien Scolaire
-  - Montpellier
-  - Hérault
+  - Soutien Scolaire Montpellier
 image:
   placement: 1
   focal_point: 'Top'

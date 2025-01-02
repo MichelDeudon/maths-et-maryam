@@ -8,13 +8,10 @@ tags:
   - Mathématiques
   - Analyse
   - Optimisation
-  - Regularisation
+  - Regularisation ML
   - Regression lineaire
   - Regression logistique
   - Descente de gradient
-  - Méthode de Newton
-  - Licence
-  - Master
 ---
 
 Optimisation et régularisation des modèles.
@@ -39,7 +36,7 @@ Optimisation et régularisation des modèles.
 
 <b>3 Optimisation en ML</b>
 - 3.1 Hypothèse iid
-- 3.2 Algorithme de descente de gradient
+- 3.2 Qu'est ce que la descente de gradient
 - 3.3 Algorithme de Newton
 - 3.4 Cas de la régression linéaire
 - 3.5 Descente de Gradient Stochastique (SGD)

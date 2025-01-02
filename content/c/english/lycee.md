@@ -6,10 +6,7 @@ weight: 20
   - Anglais
   - Lycée
   - Baccalauréat
-  - Cours particuliers
-  - Cours collectifs
-  - Montpellier
-  - Hérault
+  - Soutien Scolaire Montpellier
 ---
 
 15-18 years old

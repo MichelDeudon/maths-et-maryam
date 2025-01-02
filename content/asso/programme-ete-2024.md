@@ -5,14 +5,10 @@ type: book
 weight: 20
 highlight: true
 tags:
-- Jeunes
 - Primaire
 - Collège
 - Lycée
-- Roller
-- Danse
-- Cours collectifs
-- Stages
+- Roller Dance Montpellier
 - La Paillade
 - La Mosson
 - Montpellier

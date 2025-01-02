@@ -4,11 +4,8 @@ date: '2023-01-29'
 type: book
 weight: 30
 tags:
-  - Physique Chimie
+  - Prépa Physique Chimie
   - Superhydrophobie
-  - Prépa
-  - CPGE
-  - CPES
 ---
 
 De l'angle d'Young à l'effet Fakir (L2/L3).

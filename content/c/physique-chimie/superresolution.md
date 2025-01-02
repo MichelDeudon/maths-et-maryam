@@ -4,10 +4,8 @@ date: '2023-01-29'
 type: book
 weight: 50
 tags:
-  - Physique Chimie
+  - Prépa Physique Chimie
   - Superresolution
-  - Licence
-  - Master
 ---
 
 De la fusion d'images à Sentinel-2 (M1/M2).

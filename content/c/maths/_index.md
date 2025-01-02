@@ -6,27 +6,14 @@ date: '2023-04-11'
 type: book
 image:
 tags:
-  - Jeunes
   - Mathématiques
-  - Analyse
-  - Algèbre
-  - Intuition
-  - Logique
   - Collège
   - Lycée
   - Brevet
   - Baccalauréat
-  - BTS
   - Prépa
-  - CPGE
-  - CPES
-  - Licence
   - Master
-  - Cours particuliers
-  - Cours collectifs
-  - Soutien Scolaire
-  - Montpellier
-  - Hérault
+  - Soutien Scolaire Montpellier
 image:
   placement: 1
   focal_point: 'Bottom'

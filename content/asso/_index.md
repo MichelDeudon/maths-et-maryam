@@ -5,11 +5,9 @@ summary: Lutte contre les exclusions et vie associative, prévention, éducation
 date: '2023-05-25'
 type: book
 tags:
-  - Jeunes
   - Education
   - Santé
   - Sport
-  - Société
   - Environnement
   - La Paillade
   - La Mosson

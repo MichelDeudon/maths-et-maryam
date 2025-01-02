@@ -5,18 +5,14 @@ summary: Initiation au roller dance à Montpellier et découverte du slalom, rol
 date: '2024-07-18'
 type: book
 tags:
-  - Jeunes
-  - Roller
-  - Dance
-  - Slalom
-  - Freeride
-  - Freestyle
-  - Cours collectifs
-  - Stages
-  - La Paillade
-  - La Mosson
-  - Montpellier
-  - Hérault
+  - Roller Dance Montpellier
+  - Roller Disco Montpellier
+  - Roller Dance
+  - Roller Danse
+  - Roller Montpellier
+  - Reparation Roller
+  - Association cours de maths
+  - Soutien Scolaire Montpellier
 image:
   placement: 1
   focal_point: 'Top'
@@ -25,7 +21,7 @@ image:
 ---
 
 ## Introduction
-Un jeune sur deux propose [des sorties et des pratiques sportives](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf) comme alternative à l’ennui, donc aux [écrans](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf). Ainsi, après avoir organisé plusieurs ateliers de [prévention santé écran](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/) au centre social CAF et à l’université Paul Valéry, l’association Maths et Maryam s'engage pour la jeunesse, en particulier durant l'été pour les jeunes qui ne partent pas en vacances. Nous organisons des <b>entrainements de roller danse</b> et des activités d'<b>éducation populaire</b>, ludiques et éducatives. Nous prévoyons aussi d'organiser 2-3 événements phares dans l'année promouvant la <b>mixité sociale</b> et la <b>cohésion du quartier</b>.
+Un jeune sur deux propose [des sorties et des pratiques sportives](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf) comme alternative à l’ennui, donc aux écrans. Ainsi, après avoir organisé plusieurs ateliers de [prévention santé écran](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/) au centre social CAF et à l’université Paul Valéry, l’association Maths et Maryam s'engage pour la jeunesse, en particulier durant l'été pour les jeunes qui ne partent pas en vacances. Nous organisons des <b>entrainements de roller danse</b> et des activités d'<b>éducation populaire</b>, ludiques et éducatives. Nous prévoyons aussi d'organiser 2-3 événements phares dans l'année promouvant la <b>mixité sociale</b> et la <b>cohésion du quartier</b>.
 
 {{< cta cta_text="Débuter en roller ✅" cta_link="https://www.mathsetmaryam.fr/c/roller/tuto/" >}}
 

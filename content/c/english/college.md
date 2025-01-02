@@ -7,10 +7,7 @@ tags:
   - Anglais
   - Collège
   - Brevet
-  - Cours particuliers
-  - Cours collectifs
-  - Montpellier
-  - Hérault
+  - Soutien Scolaire Montpellier
 ---
 
 13-15 years old

@@ -4,18 +4,11 @@ date: '2024-07-09'
 type: book
 weight: 40
 tags:
-  - Jeunes
-  - Roller
-  - Dance
-  - Slalom
-  - Freeride
-  - Freestyle
-  - Cours collectifs
-  - Stages
-  - La Paillade
-  - La Mosson
-  - Montpellier
-  - Hérault
+  - Roller Dance Montpellier
+  - Roller Disco Montpellier
+  - Roller Montpellier
+  - Roller Dance
+  - Roller Danse
 ---
 
 Dites oui au roller danse.
