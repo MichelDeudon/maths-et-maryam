@@ -5,15 +5,10 @@ type: book
 weight: 40
 highlight: true
 tags:
-  - Primaire
-  - Collège
-  - Lycée
   - Sensibilisation
   - Conseils Pratiques
   - Société
   - Environnement
-  - Montpellier
-  - Hérault
 ---
 
 Une association loi 1901 créée en 2020.

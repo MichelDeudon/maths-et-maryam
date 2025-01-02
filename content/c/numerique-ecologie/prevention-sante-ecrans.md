@@ -5,17 +5,13 @@ type: book
 weight: 30
 highlight: true
 tags:
-  - l'École et les Écrans
   - Réseaux Sociaux
   - Sciences participatives
   - Conseils Pratiques
-  - Débats
-  - Empathie
-  - Collège
-  - Lycée
   - Économie
   - Santé
   - Environnement
+  - Prévention écrans
 ---
 
 Méthodes de prévention.

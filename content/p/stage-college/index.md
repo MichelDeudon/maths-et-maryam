@@ -2,17 +2,14 @@
 title: Stage d'automne pour collégien.ne.s
 date: 2024-11-01
 tags:
-- Jeunes
 - Français
 - Maths
 - Histoire
 - Science
-- Stage
 - Tutorat
+- Soutien Scolaire Montpellier
 - La Paillade
 - La Mosson
-- Montpellier
-- Herault
 ---
 
 Merci aux adhérents de l'association ASSAMR34 et aux tuteurs/tutrices de Maths et Maryam.

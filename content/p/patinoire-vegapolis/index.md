@@ -6,9 +6,7 @@ tags:
 - Patinoire Vegapolis
 - Santé
 - Sport
-- Montpellier
-- Herault
-
+- Prévention écrans
 ---
 
 À la patinoire Vegapolis.

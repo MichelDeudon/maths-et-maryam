@@ -6,10 +6,10 @@ weight: 30
 highlight: true
 tags:
   - Jeunes
-  - Empathie
   - Économie
   - Santé
   - Société
+  - Prévention écrans
 ---
 
 Intervention en Master 2 MEEF STMS sur les actions menées avec les associations de la Mosson.

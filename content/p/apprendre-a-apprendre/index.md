@@ -2,27 +2,15 @@
 title: Apprendre à apprendre
 date: 2023-09-15
 tags:
-- Jeunes
-- Anglais
+- Soutien Scolaire Montpellier
+- Aide en Mathématiques
+- Prépa Physique Chimie
 - Français
-- Mathématiques
-- Physique Chimie
-- Méthodologie
-- Collège
-- Lycée
+- Anglais
 - Brevet
 - Baccalauréat
 - Prépa
-- Licence
 - Master
-- Cours particuliers
-- Cours collectifs
-- Soutien Scolaire
-- Cité éducative
-- La Paillade
-- La Mosson
-- Montpellier
-- Herault
 ---
 
 Pour gagner en confiance en soi et devenir résilient.
