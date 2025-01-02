@@ -3,9 +3,6 @@ title: Super hydrophobie
 date: '2023-01-29'
 type: book
 weight: 30
-tags:
-  - Prépa Physique Chimie
-  - Superhydrophobie
 ---
 
 De l'angle d'Young à l'effet Fakir (L2/L3).

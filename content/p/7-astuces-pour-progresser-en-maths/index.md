@@ -2,18 +2,12 @@
 title: 7 astuces pour progresser en maths
 date: 2023-08-22
 tags:
-- Mathématiques
-- Prépa Physique Chimie
-- Collège
-- Lycée
 - Brevet
 - Baccalauréat
-- Prépa
-- Licence
+- Prépa Physique Chimie
 - Master
-- Cours particuliers
-- Cours collectifs
-- Soutien Scolaire
+- Soutien Scolaire Montpellier
+- Association cours de maths
 ---
 
 Pour débutants à avancés.

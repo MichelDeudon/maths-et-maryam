@@ -6,13 +6,12 @@ date: '2023-04-11'
 type: book
 image:
 tags:
-  - Mathématiques
   - Math Montpellier
   - Soutien Scolaire Montpellier
   - Brevet
   - Baccalauréat
-  - Prépa
   - Master
+  - Association cours de maths
 image:
   placement: 1
   focal_point: 'Bottom'

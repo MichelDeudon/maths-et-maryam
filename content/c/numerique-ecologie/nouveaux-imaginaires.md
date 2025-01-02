@@ -8,10 +8,10 @@ tags:
   - Innovations
   - Récits de la transition
   - Sobriété Numérique
-  - Économie
   - Société
   - Environnement
   - Prévention écrans
+  - Nouveaux Imaginaires
 ---
 
 Cultiver le pouvoir des récits pour unir et encapaciter.

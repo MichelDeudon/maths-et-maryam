@@ -10,7 +10,6 @@ tags:
   - Desinformation
   - Sensibilisation
   - Conseils Pratiques
-  - Économie
   - Société
   - Environnement
 ---

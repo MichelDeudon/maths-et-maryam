@@ -6,9 +6,9 @@ weight: 30
 highlight: true
 tags:
   - Jeunes
-  - Économie
   - Santé
   - Société
+  - Environnement
   - Prévention écrans
 ---
 

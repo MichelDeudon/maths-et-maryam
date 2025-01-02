@@ -6,11 +6,8 @@ date: '2023-04-10'
 type: book
 tags:
   - Prépa Physique Chimie
-  - Collège
-  - Lycée
   - Brevet
   - Baccalauréat
-  - Prépa
   - Master
   - Soutien Scolaire Montpellier
 image:

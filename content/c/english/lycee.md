@@ -3,10 +3,6 @@ title: Lycée (2nd - 1ère)
 date: '2023-01-10'
 type: book
 weight: 20
-  - Anglais
-  - Lycée
-  - Baccalauréat
-  - Soutien Scolaire Montpellier
 ---
 
 15-18 years old

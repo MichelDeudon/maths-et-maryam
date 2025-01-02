@@ -3,9 +3,6 @@ title: Super résolution
 date: '2023-01-29'
 type: book
 weight: 50
-tags:
-  - Prépa Physique Chimie
-  - Superresolution
 ---
 
 De la fusion d'images à Sentinel-2 (M1/M2).

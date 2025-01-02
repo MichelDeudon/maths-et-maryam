@@ -7,7 +7,6 @@ highlight: true
 tags:
   - Réseaux Sociaux
   - Intelligence Artificielle
-  - Economie
   - Société
   - Environnement
 ---

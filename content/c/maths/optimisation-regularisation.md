@@ -5,7 +5,6 @@ type: book
 weight: 20
 math: true
 tags:
-  - Mathématiques
   - Analyse
   - Optimisation
   - Regularisation ML

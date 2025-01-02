@@ -5,7 +5,6 @@ type: book
 weight: 10
 math: true
 tags:
-  - Mathématiques
   - Algebre linéaire
   - Réduction de dimension
   - Analyse en composante principale
