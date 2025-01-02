@@ -9,7 +9,6 @@ tags:
 - Anglais
 - Brevet
 - Baccalauréat
-- Prépa
 - Master
 ---
 

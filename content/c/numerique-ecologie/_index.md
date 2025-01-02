@@ -8,7 +8,7 @@ tags:
   - Réseaux Sociaux
   - Intelligence Artificielle
   - Désinformation
-  - Imaginaires
+  - Nouveaux Imaginaires
   - Société
   - Santé
   - Environnement

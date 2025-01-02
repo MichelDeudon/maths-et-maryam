@@ -8,7 +8,6 @@ tags:
   - Réseaux Sociaux
   - Sciences participatives
   - Conseils Pratiques
-  - Économie
   - Santé
   - Environnement
   - Prévention écrans

@@ -8,7 +8,6 @@ tags:
   - Innovations
   - Récits de la transition
   - Sciences participatives
-  - Économie
   - Société
   - Environnement
 ---

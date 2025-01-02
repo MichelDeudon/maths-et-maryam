@@ -6,8 +6,6 @@ date: '2022-04-09'
 type: book
 tags:
   - Anglais
-  - Collège
-  - Lycée
   - Brevet
   - Baccalauréat
   - Soutien Scolaire Montpellier

@@ -6,7 +6,6 @@ weight: 20
 highlight: true
 tags:
   - Sobriété Numérique
-  - Economie
   - Société
   - Santé
   - Environnement

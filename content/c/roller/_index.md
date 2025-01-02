@@ -12,7 +12,6 @@ tags:
   - Roller Montpellier
   - Reparation Roller
   - Association cours de maths
-  - Soutien Scolaire Montpellier
 image:
   placement: 1
   focal_point: 'Top'

@@ -6,7 +6,6 @@ weight: 70
 highlight: true
 tags:
   - Innovations
-  - Économie
   - Société
   - Environnement
 ---

@@ -3,9 +3,6 @@ title: Super conductivité
 date: '2023-01-29'
 type: book
 weight: 40
-tags:
-  - Prépa Physique Chimie
-  - Superconductivité
 ---
 
 Des paires de Coopers aux basses températures (L3).
