@@ -5,7 +5,6 @@ summary: Cours collectifs de physique chimie et soutien scolaire de la primaire 
 date: '2023-04-10'
 type: book
 tags:
-  - Prépa Physique Chimie
   - Brevet
   - Baccalauréat
   - Master

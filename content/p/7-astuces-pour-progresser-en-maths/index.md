@@ -4,10 +4,11 @@ date: 2023-08-22
 tags:
 - Brevet
 - Baccalauréat
-- Prépa Physique Chimie
 - Master
 - Soutien Scolaire Montpellier
+- Soutien Scolaire Maths
 - Association cours de maths
+- Cours de Maths Montpellier
 ---
 
 Pour débutants à avancés.
