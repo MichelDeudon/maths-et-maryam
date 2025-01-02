@@ -9,6 +9,9 @@ tags:
   - Brevet
   - Baccalauréat
   - Master
+  - Association cours de maths
+  - Aide en mathématiques
+  - Aide au devoir Montpellier
   - Soutien Scolaire Montpellier
 image:
   placement: 1

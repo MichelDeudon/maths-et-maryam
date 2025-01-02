@@ -11,6 +11,7 @@ tags:
   - Roller Danse
   - Roller Montpellier
   - Reparation Roller
+  - Tuto Roller
   - Association cours de maths
 image:
   placement: 1

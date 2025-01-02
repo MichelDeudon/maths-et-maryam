@@ -5,12 +5,10 @@ type: book
 weight: 20
 math: true
 tags:
-  - Analyse
-  - Optimisation
-  - Regularisation ML
   - Regression lineaire
   - Regression logistique
   - Descente de gradient
+  - Regularisation ML
 ---
 
 Optimisation et régularisation des modèles.

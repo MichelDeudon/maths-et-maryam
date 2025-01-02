@@ -4,11 +4,6 @@ date: '2024-07-09'
 type: book
 weight: 30
 tags:
-  - Roller Dance Montpellier
-  - Roller Disco Montpellier
-  - Roller Dance
-  - Roller Danse
-  - Roller Montpellier
   - Reparation Roller
 ---
 
