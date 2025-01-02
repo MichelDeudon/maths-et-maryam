@@ -4,16 +4,11 @@ date: '2024-07-09'
 type: book
 weight: 50
 tags:
-  - Roller Dance Montpellier
-  - Roller Disco Montpellier
-  - Roller Montpellier
-  - Roller Dance
-  - Roller Danse
   - Aide en mathématiques
   - Cours de maths Montpellier
   - Association cours de maths
   - Aide au devoir Montpellier
-  - Soutien Scolaire Montpellier
+  - Soutien scolaire Montpellier
 ---
 
 Vues en roller danse.

@@ -7,11 +7,14 @@ type: book
 image:
 tags:
   - Math Montpellier
-  - Soutien Scolaire Montpellier
+  - Soutien scolaire Montpellier
   - Brevet
   - Baccalauréat
   - Master
   - Association cours de maths
+  - Cours de maths Montpellier
+  - Aide en mathématiques
+  - Aide au devoir Montpellier
 image:
   placement: 1
   focal_point: 'Bottom'

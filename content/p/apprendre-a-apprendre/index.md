@@ -2,9 +2,8 @@
 title: Apprendre à apprendre
 date: 2023-09-15
 tags:
-- Soutien Scolaire Montpellier
+- Soutien scolaire Montpellier
 - Aide en Mathématiques
-- Prépa Physique Chimie
 - Français
 - Anglais
 - Brevet

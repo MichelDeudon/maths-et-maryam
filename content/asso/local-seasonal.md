@@ -7,8 +7,6 @@ highlight: true
 tags:
   - Sensibilisation
   - Conseils Pratiques
-  - Société
-  - Environnement
 ---
 
 Une association loi 1901 créée en 2020.

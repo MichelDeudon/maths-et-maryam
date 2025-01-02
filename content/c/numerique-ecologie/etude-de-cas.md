@@ -6,8 +6,6 @@ weight: 70
 highlight: true
 tags:
   - Innovations
-  - Société
-  - Environnement
 ---
 
 Et mise en situation.

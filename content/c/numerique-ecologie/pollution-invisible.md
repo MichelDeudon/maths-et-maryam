@@ -6,9 +6,7 @@ weight: 20
 highlight: true
 tags:
   - Sobriété Numérique
-  - Société
   - Santé
-  - Environnement
 ---
 
 Impacts du numérique: environnementaux, sanitaires et sociaux.

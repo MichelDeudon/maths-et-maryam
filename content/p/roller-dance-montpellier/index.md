@@ -3,6 +3,7 @@ title: Une équipe de roller dance à La Mosson
 date: 2024-04-28
 tags:
 - Roller Dance Montpellier
+- Roller Montpellier
 - Santé
 - Sport
 - La Paillade

@@ -7,8 +7,6 @@ highlight: true
 tags:
   - Jeunes
   - Santé
-  - Société
-  - Environnement
   - Prévention écrans
 ---
 

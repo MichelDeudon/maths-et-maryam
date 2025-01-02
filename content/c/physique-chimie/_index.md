@@ -5,11 +5,13 @@ summary: Cours collectifs de physique chimie et soutien scolaire de la primaire 
 date: '2023-04-10'
 type: book
 tags:
-  - Prépa Physique Chimie
   - Brevet
   - Baccalauréat
   - Master
-  - Soutien Scolaire Montpellier
+  - Association cours de maths
+  - Aide en mathématiques
+  - Aide au devoir Montpellier
+  - Soutien scolaire Montpellier
 image:
   placement: 1
   focal_point: 'Top'

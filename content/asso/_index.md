@@ -5,14 +5,10 @@ summary: Lutte contre les exclusions et vie associative, prévention, éducation
 date: '2023-05-25'
 type: book
 tags:
-  - Education
   - Santé
   - Sport
-  - Environnement
   - La Paillade
   - La Mosson
-  - Montpellier
-  - Hérault
 image:
   placement: 1
   focal_point: 'Smart'

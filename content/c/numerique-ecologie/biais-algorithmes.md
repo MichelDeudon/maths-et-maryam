@@ -10,8 +10,6 @@ tags:
   - Desinformation
   - Sensibilisation
   - Conseils Pratiques
-  - Société
-  - Environnement
 ---
 
 Pour sortir du paradigme diviser pour mieux régner.
