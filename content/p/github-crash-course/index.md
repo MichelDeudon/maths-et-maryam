@@ -1,6 +1,9 @@
 ---
 title: Cours sur Github pour data scientists
 date: 2022-01-24
+tags:
+- Github data
+- Cours Github
 ---
 
 De A à Z, tout ce que vous devez savoir.

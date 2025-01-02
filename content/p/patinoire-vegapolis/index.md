@@ -2,17 +2,11 @@
 title: Sorties patinoires à Montpellier
 date: 2024-12-25
 tags:
-- Jeunes
 - Patin à glace
-- Patinoire
+- Patinoire Vegapolis
 - Santé
 - Sport
-- Vegapolis
-- La Paillade
-- La Mosson
-- Montpellier
-- Herault
-
+- Prévention écrans
 ---
 
 À la patinoire Vegapolis.
@@ -27,7 +21,7 @@ Le mercedi 30 octobre et lundi 30 décembre 2024, nous avons organisé une sorti
 {{< video src="patinoire-2024.mp4" controls="yes" >}}
 -->
 
-Merci à l'équipe de la patinoire pour l'accueil avec les enfants et à Antea, en master Droits des Enfants, qui nous a accompagnés pour la sortie !
+Merci à l'équipe de la patinoire pour l'accueil avec les enfants et à Morgann, Michel et Antea, en master Droits des Enfants, qui ont accompagné et animé la sortie !
 
 ## Retour des jeunes et parents
 

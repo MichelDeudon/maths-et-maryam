@@ -15,10 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: LocalBusiness
-    local_business_type: 'ProfessionalService'
+    site_type: Organization
+    #local_business_type: 'ProfessionalService'
     org_name: 'Maths et Maryam'
-    description: 'Roller dance, cours collectifs et soutien scolaire en mathématiques, physique chimie, SVT, français, anglais et histoire géographie à Montpellier.'
+    description: 'Roller dance et soutien scolaire à Montpellier. Cours de maths, 
+     et soutien scolaire en mathématiques, physique chimie, SVT, français, anglais et histoire géographie à Montpellier.'
     twitter: ''
   analytics:
     google_analytics: ''

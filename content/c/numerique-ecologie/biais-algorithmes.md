@@ -10,7 +10,6 @@ tags:
   - Desinformation
   - Sensibilisation
   - Conseils Pratiques
-  - Débats
   - Économie
   - Société
   - Environnement
@@ -25,7 +24,7 @@ Pour sortir du paradigme diviser pour mieux régner.
 En psychologie cognitive, les biais sont <b>des raccourcis</b> de la pensée.
 Ils mènent à des conclusions rapides, par exemple la présence ou non d'un danger, et donnent un certain avantage d'un point de vue évolutif (par exemple pour se défendre), mais ils peuvent aussi mener à des stéréotypes et conclusions érronées.
 
-Les <b>biais de sélection</b>, fréquents dans les sondages, donnent lieu à une généralisation erronée des résultats et des fausses conclusions, par exemple où renforcer un avion en étudiant le criblage des <i>survivants</i> (les avions qui sont revenus du front). En effet, pour répondre à cette question il faudrait plutôt étudier les avions tombés au combat mais ceux-ci ne sont pas représentés.
+Les <b>biais de sélection</b> ou <b>biais du survivant</b>, fréquents dans les sondages, donnent lieu à une généralisation erronée des résultats et des fausses conclusions, par exemple où renforcer un avion en étudiant le criblage des <i>survivants</i> (les avions qui sont revenus du front). En effet, pour répondre à cette question il faudrait plutôt étudier les avions tombés au combat mais ceux-ci ne sont pas représentés.
 
 Les <b>biais de confirmation</b>, fréquents sur les réseaux sociaux, renforcent des croyances. On finit par trouver ce qu'on cherche plutôt que d'apprendre et explorer de nouvelles choses, sortir de sa zone de comfort.
 

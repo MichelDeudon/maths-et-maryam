@@ -5,18 +5,10 @@ type: book
 weight: 20
 highlight: true
 tags:
-- Jeunes
-- Primaire
-- Collège
-- Lycée
-- Roller
-- Danse
-- Cours collectifs
-- Stages
+- Roller Dance Montpellier
+- Roller Montpellier
 - La Paillade
 - La Mosson
-- Montpellier
-- Hérault
 ---
 
 Agenda des activités et sorties à Montpellier.

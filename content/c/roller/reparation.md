@@ -4,18 +4,12 @@ date: '2024-07-09'
 type: book
 weight: 30
 tags:
-  - Jeunes
-  - Roller
-  - Dance
-  - Slalom
-  - Freeride
-  - Freestyle
-  - Cours collectifs
-  - Stages
-  - La Paillade
-  - La Mosson
-  - Montpellier
-  - Hérault
+  - Roller Dance Montpellier
+  - Roller Disco Montpellier
+  - Roller Dance
+  - Roller Danse
+  - Roller Montpellier
+  - Reparation Roller
 ---
 
 Réparer, recycler, reconditionner ses rollers.

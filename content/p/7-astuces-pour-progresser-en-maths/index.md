@@ -2,9 +2,8 @@
 title: 7 astuces pour progresser en maths
 date: 2023-08-22
 tags:
-- Jeunes
 - Mathématiques
-- Physique Chimie
+- Prépa Physique Chimie
 - Collège
 - Lycée
 - Brevet

@@ -6,27 +6,13 @@ date: '2023-04-11'
 type: book
 image:
 tags:
-  - Jeunes
   - Mathématiques
-  - Analyse
-  - Algèbre
-  - Intuition
-  - Logique
-  - Collège
-  - Lycée
+  - Math Montpellier
+  - Soutien Scolaire Montpellier
   - Brevet
   - Baccalauréat
-  - BTS
   - Prépa
-  - CPGE
-  - CPES
-  - Licence
   - Master
-  - Cours particuliers
-  - Cours collectifs
-  - Soutien Scolaire
-  - Montpellier
-  - Hérault
 image:
   placement: 1
   focal_point: 'Bottom'
@@ -72,7 +58,7 @@ Cours de maths dispensés à l'université Paul Valéry Montpellier 3, en [licen
 
 - En primaire: [Tables de multiplication](https://i.pinimg.com/736x/14/0d/be/140dbe1148d46d94e239084a6086cf28.jpg) sur Pinterest.
 - Au collège: [Formules de géométrie plane](https://i.pinimg.com/736x/1a/08/d4/1a08d487c1972fdd5f5daf84081fee08.jpg).
-- Au lycée: [Fonctions usuelles](https://i.pinimg.com/736x/ed/89/d5/ed89d530fcf24e471bf5993a9776eff6.jpg) et [primitives](https://i.pinimg.com/1200x/8e/10/d1/8e10d14a4ac34ee5d3dfcdf92f358260.jpg) (intégrales usuelles), [arbre conditionnel](https://i.pinimg.com/736x/83/83/13/838313f21fd105e0466b14f8d608cde5.jpg) et [cercle trigonométrique](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
+- Au lycée: [Fonctions usuelles](https://i.pinimg.com/736x/ed/89/d5/ed89d530fcf24e471bf5993a9776eff6.jpg) et [primitives](https://i.pinimg.com/1200x/8e/10/d1/8e10d14a4ac34ee5d3dfcdf92f358260.jpg) (intégrales usuelles et primitive de uv, u x v, u/v...), [arbre conditionnel](https://i.pinimg.com/736x/83/83/13/838313f21fd105e0466b14f8d608cde5.jpg) et [cercle trigonométrique](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
 
 ## Jeux et éveil scientifique
 

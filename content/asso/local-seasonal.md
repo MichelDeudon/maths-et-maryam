@@ -5,18 +5,10 @@ type: book
 weight: 40
 highlight: true
 tags:
-  - Jeunes
-  - Primaire
-  - Collège
-  - Lycée
   - Sensibilisation
   - Conseils Pratiques
   - Société
   - Environnement
-  - La Paillade
-  - La Mosson
-  - Montpellier
-  - Hérault
 ---
 
 Une association loi 1901 créée en 2020.

@@ -6,14 +6,11 @@ weight: 10
 math: true
 tags:
   - Mathématiques
-  - Algèbre
   - Algebre linéaire
   - Réduction de dimension
   - Analyse en composante principale
   - Factorisation de matrices
   - Décomposition en valeurs singulières
-  - Licence
-  - Master
 ---
 
 Algèbre bilinéaire et analyse en composante principale.

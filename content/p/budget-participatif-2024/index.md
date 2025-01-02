@@ -2,15 +2,12 @@
 title: Le projet Roller Dance Mosson au budget participatif
 date: 2024-10-21
 tags:
-- Jeunes
-- Roller
-- Danse
+- Roller Montpellier
+- Rollerdance
 - Santé
 - Sport
 - La Paillade
 - La Mosson
-- Montpellier
-- Herault
 ---
 
 Merci à toutes les citoyen.ne.s mobilisé.e.s.

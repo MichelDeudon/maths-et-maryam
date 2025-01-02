@@ -5,18 +5,14 @@ summary: Formation à la transition sociale et écologique visant à interroger 
 date: '2024-03-08'
 type: book
 tags:
-  - Jeunes
   - Réseaux Sociaux
   - Intelligence Artificielle
-  - l'École et les Écrans
-  - Empathie
-  - Débats
   - Désinformation
   - Imaginaires
-  - Prévention
   - Société
   - Santé
   - Environnement
+  - Prévention écrans
 image:
   placement: 1
   focal_point: 'Smart'

@@ -4,18 +4,16 @@ date: '2024-07-09'
 type: book
 weight: 50
 tags:
-  - Jeunes
-  - Roller
-  - Dance
-  - Slalom
-  - Freeride
-  - Freestyle
-  - Cours collectifs
-  - Stages
-  - La Paillade
-  - La Mosson
-  - Montpellier
-  - Hérault
+  - Roller Dance Montpellier
+  - Roller Disco Montpellier
+  - Roller Montpellier
+  - Roller Dance
+  - Roller Danse
+  - Aide en mathématiques
+  - Cours de maths Montpellier
+  - Association cours de maths
+  - Aide au devoir Montpellier
+  - Soutien Scolaire Montpellier
 ---
 
 Vues en roller danse.

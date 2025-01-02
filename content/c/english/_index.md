@@ -5,17 +5,12 @@ summary: Cours collectifs d'anglais et soutien scolaire de la primaire au lycée
 date: '2022-04-09'
 type: book
 tags:
-  - Jeunes
   - Anglais
   - Collège
   - Lycée
   - Brevet
   - Baccalauréat
-  - Cours particuliers
-  - Cours collectifs
-  - Soutien Scolaire
-  - Montpellier
-  - Hérault
+  - Soutien Scolaire Montpellier
 image:
   placement: 1
   focal_point: 'Smart'
