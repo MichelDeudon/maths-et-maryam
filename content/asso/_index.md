@@ -15,7 +15,6 @@ tags:
   - La Mosson
   - Montpellier
   - Hérault
-share: true
 image:
   placement: 1
   focal_point: 'Smart'
