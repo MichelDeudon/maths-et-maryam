@@ -25,7 +25,3 @@ Merci à l'équipe de la patinoire pour l'accueil avec les enfants et à Morgann
 ## Retour des jeunes et parents
 
 > _Bonjour franchement merci beaucoup pour cette activité que vous avez fait. Anouar était trop content!_ - Père d'Anouar.
-
-## Voir aussi
-
-{{< cta cta_text=" Roller Dance à Montpellier ✅" cta_link="https://www.mathsetmaryam.fr/c/roller/" >}}
