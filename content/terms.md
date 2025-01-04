@@ -1,6 +1,6 @@
 ---
-title: Terms
-date: '2018-06-28T00:00:00+01:00'
+title: Mentions légales et politique de confidentialité
+date: '2025-01-04T00:00:00+01:00'
 draft: false
 share: false
 commentable: false
@@ -12,31 +12,27 @@ header:
   image: ''
 ---
 
-# Mentions légales et politique de confidentialité
-
-Mises à jour le 04/01/2024
+Mises à jour le 04/01/2025.
 
 ## Éditeur
 
-Le site [mathsetmaryam.fr](https://www.mathsetmaryam.fr/) est édité par Maths et Maryam, association loi 1901 déclarée auprès de la Préfecture de l'Hérault, dont le siège social est situé au 34 rue d'Oxford, 34080 Montpellier, France. Maths et Maryam est immatriculée sous le numéro RNA W343032301 et le numéro SIRET 929 160 760 00013.
+Le site [mathsetmaryam.fr](https://www.mathsetmaryam.fr/) est édité par Maths et Maryam, association loi 1901 déclarée auprès de la Préfecture de l'Hérault et dont le siège social est situé au 34 rue d'Oxford, 34080 Montpellier, France. Maths et Maryam est immatriculée sous le numéro RNA W343032301 et le numéro SIRET 929 160 760 00013.
+
+## Directeur de la publication
+
+Michel Deudon, co-président de l’association Maths et Maryam.
+* E-mail : michel “at” mathsetmaryam.fr
+* Tel : +33 (0)6 13 83 54 12
 
 ## Hébergeur
 
 Le site [mathsetmaryam.fr](https://www.mathsetmaryam.fr/) est hébergé aux États-Unis (AWS us-east-2), par la société [Netlify](https://www.netlify.com/), 44 Montgomery St Suite 300 San Francisco, California 94104 US, en attendant la version payante (228$ par an) pour migrer l'hébergement en Europe.
 
-## Directeur de la publication
-
-Michel Deudon, co-président de l’association Maths et Maryam.
-
-E-mail : michel “at” mathsetmaryam.fr
-
-Tel : +33 (0)6 13 83 54 12
-
 ## Données personnelles et politique de confidentialité
 
-Le site [mathsetmaryam.fr](https://www.mathsetmaryam.fr/) respecte la vie privée de l’internaute et se conforme strictement aux lois en vigueur sur la protection de la vie privée et des libertés individuelles. Le site n'utilise pas de cookies et aucune information personnelle n’est collectée à votre insu. Aucune information personnelle n’est cédée à des tiers.
+Le site [mathsetmaryam.fr](https://www.mathsetmaryam.fr/) n'utilise pas de cookies et aucune information personnelle n’est collectée à votre insu. Le site respecte la vie privée de l’internaute et se conforme strictement aux lois en vigueur sur la protection de la vie privée et des libertés individuelles. Aucune information personnelle n’est cédée à des tiers.
 
-Avec votre accord, certaines données personnelles peuvent figurer sur notre site (nom, prénom, photo, etc.) sous la forme de portraits ou de témoignages de nos adhérents. Conformément à la réglementation relative à la protection des données à caractère personnel (Règlement Général sur la Protection des Données, loi Informatique et Libertés), vous pouvez accéder à vos données personnelles, demander leur rectification, limitation ou effacement et vous opposer à leur utilisation. Pour toute information ou pour exercer vos droits, vous pouvez contacter le Délégué à la Protection des Données (DPD) par courrier ou par courriel à l’adresse suivante : michel “at” mathsetmaryam.fr.
+Avec votre accord, certaines données personnelles peuvent figurer sur notre site (nom, prénom, photo, etc.) sous la forme de portraits ou de témoignages de nos adhérents. Conformément à la réglementation relative à la protection des données à caractère personnel (le Règlement Général sur la Protection des Données, la loi Informatique et Libertés), vous pouvez accéder à vos données personnelles, demander leur rectification, limitation ou effacement et vous opposer à leur utilisation. Pour toute information ou pour exercer vos droits, vous pouvez contacter le Délégué à la Protection des Données (DPD) par courrier ou par courriel à l’adresse suivante : michel “at” mathsetmaryam.fr.
 
 ## Liens hypertextes
 
