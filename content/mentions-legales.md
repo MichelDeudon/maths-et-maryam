@@ -20,9 +20,9 @@ Le site [mathsetmaryam.fr](https://www.mathsetmaryam.fr/) est édité par Maths 
 
 ## Directeur de la publication
 
-Michel Deudon, co-président de l’association Maths et Maryam.
-* E-mail : michel “at” mathsetmaryam.fr
-* Tel : +33 (0)6 13 83 54 12
+Michel Deudon, co-président de l’association Maths et Maryam. <br>
+E-mail : michel “at” mathsetmaryam.fr <br>
+Tel : +33 (0)6 13 83 54 12
 
 ## Hébergeur
 
