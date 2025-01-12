@@ -25,7 +25,9 @@ organizations:
 bio: Short bio.
 
 interests:
-  - X
+  - Educ Pop
+  - Droits de l'enfant
+  - Patinoire
 
 education:
   courses:
