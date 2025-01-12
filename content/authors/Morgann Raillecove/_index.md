@@ -25,7 +25,7 @@ organizations:
 bio: Short bio.
 
 interests:
-  - Educ pop
+  - Educ Pop
   - Histoire
   - Théâtre
 

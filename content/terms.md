@@ -26,7 +26,12 @@ Tel : +33 (0)6 13 83 54 12
 
 ## Hébergeur
 
-Le site [mathsetmaryam.fr](https://www.mathsetmaryam.fr/) est hébergé aux États-Unis (AWS us-east-2), par la société [Netlify](https://www.netlify.com/), 44 Montgomery St Suite 300 San Francisco, California 94104 US, en attendant de migrer l'hébergement en Europe (version payante à 228$ par an).
+Le site [mathsetmaryam.fr](https://www.mathsetmaryam.fr/) est hébergé par la société [Netlify](https://www.netlify.com/) dont le siège social est situé au 44 Montgomery St Suite 300 San Francisco, California 94104, USA.
+
+Lorsqu'un utilisateur visite le site [mathsetmaryam.fr](https://www.mathsetmaryam.fr/), les données sont récupérées depuis le [nœud CDN le plus proche](https://answers.netlify.com/t/support-guide-how-are-requests-routed-to-the-nearest-netlify-cdn-node/105), par exemple en Europe si l'utilisateur s'y trouve. Si le contenu n'est pas mis en cache dans ce nœud, il est récupéré sur le serveur d'origine qui se trouve près de San Francisco aux États-Unis. Le contenu est ensuite stocké dans ce nœud CDN.
+
+La société [Netlify](https://www.netlify.com/) a un Accord de Traitement des Données (DPA) pour se conformer au [RGPD](https://www.cnil.fr/fr/mes-demarches/les-droits-pour-maitriser-vos-donnees-personnelles) et vous trouverez plus d'informations à ce sujet ici :
+[https://www.netlify.com/gdpr-ccpa/](https://www.netlify.com/gdpr-ccpa/).
 
 ## Données personnelles et politique de confidentialité
 
