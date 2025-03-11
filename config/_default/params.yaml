@@ -10,6 +10,7 @@ appearance:
   theme_night: 
   font: minimal
   font_size: L
+  color: red
 
 # SEO
 
