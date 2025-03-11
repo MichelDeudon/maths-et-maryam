@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  mode: system
+  mode: light
   color: red
   font: minimal
   font_size: L
