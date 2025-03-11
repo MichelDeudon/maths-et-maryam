@@ -6,11 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: 
+  mode: system
+  color: red
   font: minimal
   font_size: L
-  color: red
 
 # SEO
 
