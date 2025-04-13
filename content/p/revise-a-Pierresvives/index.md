@@ -28,4 +28,4 @@ Deux à trois bénévoles de l'association Maths et Maryam seront présents à l
 
 ## Vacances d'Hiver 2025 (passé)
 
-L'opération d'aide aux devoirs à Pierresvives a été annulée en février 2025 en raison des coupes budgétaires du Conseil Départemental de l'Hérault mais vous pouvez télécharger notre [bilan de l'opération menée par des bénévoles](https://www.mathsetmaryam.fr/u/Bilan_2025_MPV_aide_aux_devoirs.pdf) et transmis au responsable de la médiathèque Pierresvives pour demander de proposer l'action aux vacances de Printemps.
+L'opération d'aide aux devoirs à Pierresvives a été annulée en février 2025 en raison des coupes budgétaires du Conseil Départemental de l'Hérault mais vous pouvez télécharger notre [bilan de l'opération menée par des bénévoles](https://www.mathsetmaryam.fr/u/Bilan_2025_MPV_aide_aux_devoirs.pdf) et transmis au responsable de la médiathèque Pierresvives pour demander au Département de proposer une action aux vacances de Printemps avec l'association GSC.

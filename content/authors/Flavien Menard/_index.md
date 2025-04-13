@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Enseignant
+role: Bénévole
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
   courses:
     - course: Diplôme d'ingénieur
       institution: Grenoble INP - ENSE3
-      year: Année
+      year: 2020
 
 # Social/Academic Networking
 social:

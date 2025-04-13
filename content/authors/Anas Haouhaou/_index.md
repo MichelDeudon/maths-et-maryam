@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Président
+role: Co-président
 
 # Organizations/Affiliations
 organizations:
