@@ -9,6 +9,10 @@ design:
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 ---
 
+> _Très bonne association avec diverses activités proposées aux enfants. Les bénévoles sont très impliqués et très attentifs aux enfants._ - Najet, mère de Yanis et Lilya (2025).
+
+> _Viens, c'est tellement cool. Ils vont te donner des astuces vraiment faciles =P_ - Majda, étudiante au collège Arthur Rimbaud (2025).
+
 > _Quelques mots pour remercier infiniment l'animatrice Morgann, et pour vous dire aussi que je n'ai jamais vu mes enfants très motivés pour participer à des activités comme cette fois ci et tout cela grâce à Morgann, avec sa patience, sa compréhension, sa gentillesse et surtout sa relation éducative professionnelle personnalisée avec les enfants... Merci Morgann ❤_ - Amina, mère de Nesrine, Younes, Inès et Yassine (2024).
 
 > _Salut, sache que si tu passes par là, tu tomberas sur des merveilleuses personnes, avec lesquels tu vas grandir, apprendre, qui vont te soutenir, qui te feront sentir bien et assez pour pouvoir évoluer et par dessus tout, progresser. S'il y avait un mot pour décrire cette magnifique association, ça serait le mot progresser car avec c’est certain.
@@ -26,9 +30,7 @@ Un grand merci à Michel, et j’espère que son projet verra la plus grande lum
 > _Ayant travaillé avec Michel sur des projets de science des données, je peux dire avec confiance qu'il est très compétent, passionné par la science et un compagnon joyeux!_ - Titas, data scientist chez Vinted (2021).
 -->
 
-<!--
 > _Au cours de mon année de terminale, Michel m'a beaucoup aidé dans les matières scientifiques. C'est un tuteur avec beaucoup de patience et qui sait expliquer de manière claire aussi bien les mathématiques que la physique chimie. Il est très pédagogue, et sait motiver les élèves. Il a su me donner le goût des mathématiques, ce qui était loin d'être gagné!_ - Céline, étudiante en bachelor à l'IE Madrid (2021).
--->
 
 > _Les cours ont été d'une grande aide pour la transition du collège au lycée. Jeanne a pu choisir la spécialité mathématiques alors qu'en début d'année, elle rencontrait des difficultés. L'enseignement était adapté et bienveillant, basé sur une communication claire._ - Sylvie, mère de Jeanne (2020).
 
