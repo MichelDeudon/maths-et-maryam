@@ -8,8 +8,8 @@ tags:
   - Brevet
   - Baccalauréat
   - Master
-  - Association cours de maths
-  - Aide en mathématiques
+  - Association cours de physique-chimie
+  - Aide en physique-chimie
   - Aide au devoir Montpellier
   - Soutien scolaire Montpellier
 image:
@@ -43,6 +43,15 @@ Trouvez l'inspiration avec le biomimétisme, ou des histoires inspirées de la n
 - [Grandeurs et unités physique](https://public.iutenligne.net/mecanique/mecanique-du-solide/charbonnieras/mecanique/3.2.Img1.png) sur IUTenligne.
 - Physique (forces, gravitation, force éléctrostatique, énergie, ondes, son et lumière, applications).
 - Chimie (structure de la matière, réaction d'oxydo-réduction, physique quantique, chimie organique).
+
+## Annales du Baccalauréat
+
+Vous pouvez retrouver les sujets du Baccalauréat corrigés sur le site vecteurbac.fr:
+- [Sujets corrigés en 2024](https://www.vecteurbac.fr/terminale-specialite-physique-chimie-sujets-2024/)
+- [Sujets corrigés en 2023](https://www.vecteurbac.fr/terminale-specialite-physique-chimie-sujets-2023/)
+- [Sujets corrigés en 2022](https://www.vecteurbac.fr/terminale-specialite-physique-chimie-sujets-2022/)
+- [Sujets corrigés en 2021](https://www.vecteurbac.fr/terminale-specialite-physique-chimie-sujets-2021/)
+
 
 ## FAQs
 
