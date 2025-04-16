@@ -30,3 +30,7 @@ Et bilan moral, bilans filanciers, rapports d'activités...
 
 * PV [AG #1](https://www.mathsetmaryam.fr/u/PV-AG-juin-2024.pdf)
 * PV [AG #2](https://www.mathsetmaryam.fr/u/PV-AG-novembre-2024.pdf)
+
+## Statuts de l'association
+
+Vous pouvez télécharger sur ce site les [statuts de notre association](https://www.mathsetmaryam.fr/u/Statuts-Maths-et-Maryam.pdf) et la [publication au journal officiel](https://www.mathsetmaryam.fr/u/JOAFE-Maths-et-Maryam.pdf) du 21 mai 2024.
