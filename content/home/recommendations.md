@@ -9,9 +9,12 @@ design:
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 ---
 
+> _Un grand merci Morgann. Merci infiniment pour tout ce que tu as fait pour moi. Franchement, j’ai connu des gens vraiment très durs, mais des personnes comme toi, il en existe trop peu aujourd’hui. Tu es bienveillante, patiente, à l’écoute, et toujours prête à aider — c’est rare, et je suis tellement reconnaissante d’être tombée sur toi. J’aimerais tellement qu’il y ait plus de gens comme toi.
+Encore merci, du fond du cœur ❤._ - Majda, étudiante au Lycée Turgot (2025).
+
 > _Très bonne association avec diverses activités proposées aux enfants. Les bénévoles sont très impliqués et très attentifs aux enfants._ - Najet, mère de Yanis et Lilya (2025).
 
-> _Viens, c'est tellement cool. Ils vont te donner des astuces vraiment faciles =P_ - Majda, étudiante au collège Arthur Rimbaud (2025).
+> _Viens, c'est tellement cool. Ils vont te donner des astuces vraiment faciles =P_ - Majda, élève au collège Arthur Rimbaud (2025).
 
 > _Quelques mots pour remercier infiniment l'animatrice Morgann, et pour vous dire aussi que je n'ai jamais vu mes enfants très motivés pour participer à des activités comme cette fois ci et tout cela grâce à Morgann, avec sa patience, sa compréhension, sa gentillesse et surtout sa relation éducative professionnelle personnalisée avec les enfants... Merci Morgann ❤_ - Amina, mère de Nesrine, Younes, Inès et Yassine (2024).
 
