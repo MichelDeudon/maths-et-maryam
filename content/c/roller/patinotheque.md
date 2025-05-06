@@ -20,7 +20,7 @@ L’association Maths et Maryam est [lauréate du 1er budget participatif de la 
 
 Les bénéficiaires de l’association Maths et Maryam peuvent emprunter les rollers de l'association après avoir
 * completé, signé et retourné le formulaire d’adhésion à l’association Maths et Maryam pour les [élèves-tuteurs](https://www.mathsetmaryam.fr/u/Adhesion.pdf) ou [mentors](https://www.helloasso.com/associations/maths-et-maryam/adhesions/adhesion-association)
-* signé la décharge de responsabilité pour la pratique du roller en dehors des interventions prévues par l'association
+* signé la [décharge de responsabilité](https://www.mathsetmaryam.fr/u/Decharge.pdf) pour la pratique du roller en dehors des interventions prévues par l'association
 
 Les bénéficiaires de l’asso qui remplissent ces conditions ont le droit:
 * à des interventions ponctuelles ou régulières d’éducation populaire (aide aux devoirs, soutien scolaire, sortie roller, patinoire, classes vertes… assurée par la MAIF)
