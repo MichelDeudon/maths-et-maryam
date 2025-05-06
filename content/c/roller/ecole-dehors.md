@@ -3,6 +3,10 @@ title: Faire classe dehors
 date: '2024-07-09'
 type: book
 weight: 40
+tags:
+  - Roller Dance
+  - Aide au devoir Montpellier
+  - Soutien scolaire Montpellier
 ---
 
 Dites oui au roller danse.

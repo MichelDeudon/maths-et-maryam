@@ -3,6 +3,8 @@ title: Entrainements et spectacles
 date: '2023-01-10'
 type: book
 weight: 20
+tags:
+  - Roller Dance
 ---
 
 Séance type de roller danse.
