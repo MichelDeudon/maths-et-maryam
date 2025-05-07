@@ -30,7 +30,7 @@ Tableau récapitulatif des dépenses d’investissement:
 Les bénéficiaires de l’association Maths et Maryam peuvent emprunter les rollers de l'association après avoir completé le formulaire d’adhésion des [élèves-tuteurs](https://www.mathsetmaryam.fr/u/Adhesion.pdf) ou des [mentors](https://www.helloasso.com/associations/maths-et-maryam/adhesions/adhesion-association) et signé la [décharge de responsabilité](https://www.mathsetmaryam.fr/u/Decharge.pdf) pour la pratique du roller en dehors des interventions prévues par l'association.
 
 Les bénéficiaires de l’asso ont le droit:
-* à des interventions ponctuelles ou régulières (aide aux devoirs, soutien scolaire, sortie roller, patinoire, classes vertes…) assurées par la MAIF.
+* à des interventions ponctuelles ou régulières (aide aux devoirs, soutien scolaire, sortie roller, patinoire, classes vertes…) assurées par la [MAIF](https://www.maif.fr/associationsetcollectivites/associations/nos-solutions).
 * à un suivi et des rencontres avec les bénévoles.
 * à [un carnet de progression](https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf) pour la pratique de roller.
 * d’emprunter des rollers pour une durée de 2 mois, renouvelable.
@@ -38,7 +38,7 @@ Les bénéficiaires de l’asso ont le droit:
 Les bénéficiaires de l’asso s’engagent:
 * à faire vivre la solidarité et promouvoir <b>l’entraide</b>, le <b>partage</b> et le <b>droit au savoir</b>, qui sont au coeur des valeurs de l'association.
 * à prendre soin du matériel, des autres et de l’environnement.
-* à ne pas revendre le matériel emprunté et à respecter les chartes de l’association comme le [contrat d’engagement républicain](https://www.mathsetmaryam.fr/u/BP_Montpellier_contrat_engagement_republicain.pdf).
+* à ne pas revendre le matériel emprunté et à respecter les [chartes de l’association](https://www.mathsetmaryam.fr/charte/).
 * à ne pas poursuivre l’association s’il survenait un accident en dehors des interventions de l’association.
 
 ## Quelles manifestations sont prévues ?

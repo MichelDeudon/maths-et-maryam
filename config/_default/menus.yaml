@@ -33,12 +33,15 @@ main:
   - name: Vie Associative
     PageRef: asso/_index.md
     weight: 40
+  - name: Chartes
+    PageRef: charte/_index.md
+    weight: 50
   - name: Blog
     PageRef: p/_index.md
-    weight: 50
+    weight: 60
   - name: 
     params:
       rel: external
     pre: <i class="fa fa-heart"></i>
     url: https://www.helloasso.com/associations/maths-et-maryam
-    weight: 60
+    weight: 70
