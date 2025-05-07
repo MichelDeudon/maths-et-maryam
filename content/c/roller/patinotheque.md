@@ -38,7 +38,7 @@ Les bénéficiaires de l’asso ont le droit:
 Les bénéficiaires de l’asso s’engagent:
 * à faire vivre la solidarité et promouvoir <b>l’entraide</b>, le <b>partage</b> et le <b>droit au savoir</b>, qui sont au coeur des valeurs de l'association.
 * à prendre soin du matériel, des autres et de l’environnement.
-* à ne pas revendre le matériel emprunté et à respecter les chartes de l’association comme le [contrat d’engagement républicain](https://www.mathsetmaryam.fr/u/BP_Montpellier_contrat_engagement_republicain.pdf).
+* à ne pas revendre le matériel emprunté et à respecter les [chartes de l’association](https://www.mathsetmaryam.fr/charte/).
 * à ne pas poursuivre l’association s’il survenait un accident en dehors des interventions de l’association.
 
 ## Quelles manifestations sont prévues ?

@@ -33,7 +33,7 @@ main:
   - name: Vie Associative
     PageRef: asso/_index.md
     weight: 40
-  - name: Blog
+  - name: Chartes
     PageRef: charte/_index.md
     weight: 50
   - name: Blog
