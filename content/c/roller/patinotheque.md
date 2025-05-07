@@ -30,7 +30,7 @@ Tableau récapitulatif des dépenses d’investissement:
 Les bénéficiaires de l’association Maths et Maryam peuvent emprunter les rollers de l'association après avoir completé le formulaire d’adhésion des [élèves-tuteurs](https://www.mathsetmaryam.fr/u/Adhesion.pdf) ou des [mentors](https://www.helloasso.com/associations/maths-et-maryam/adhesions/adhesion-association) et signé la [décharge de responsabilité](https://www.mathsetmaryam.fr/u/Decharge.pdf) pour la pratique du roller en dehors des interventions prévues par l'association.
 
 Les bénéficiaires de l’asso ont le droit:
-* à des interventions ponctuelles ou régulières (aide aux devoirs, soutien scolaire, sortie roller, patinoire, classes vertes…) assurées par la MAIF.
+* à des interventions ponctuelles ou régulières (aide aux devoirs, soutien scolaire, sortie roller, patinoire, classes vertes…) assurées par la [MAIF](https://www.maif.fr/associationsetcollectivites/associations/nos-solutions).
 * à un suivi et des rencontres avec les bénévoles.
 * à [un carnet de progression](https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf) pour la pratique de roller.
 * d’emprunter des rollers pour une durée de 2 mois, renouvelable.
