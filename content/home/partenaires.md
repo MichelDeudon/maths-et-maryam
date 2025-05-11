@@ -9,4 +9,6 @@ design:
 
 <center> {{< figure src="assos/partenaires-institutionnels.png" caption="Logos de nos partenaires institutionnels.">}} </center>
 
-<center> {{< figure src="assos/partenaires-associatifs-et-prives.png" caption="Logos de nos partenaires associatifs et privés.">}} </center>
+<center> {{< figure src="assos/partenaires-associatifs.png" caption="Logos de nos partenaires associatifs.">}} </center>
+
+<center> {{< figure src="assos/partenaires-prives.png" caption="Logos de nos partenaires privés.">}} </center>

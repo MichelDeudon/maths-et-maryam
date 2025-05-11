@@ -10,8 +10,6 @@ Chartes des élèves-tuteurs
 
 <!--more-->
 
-Télécharger notre charte des élèves-tuteurs
-
 {{< callout note >}}
-<a href="https://www.mathsetmaryam.fr/u/Charte_eleves_tuteurs.pdf/">Chartes des élèves-tuteurs</a>.
+Télécharger notre <a href="https://www.mathsetmaryam.fr/u/Charte_eleves_tuteurs.pdf/">Charte des élèves-tuteurs</a>.
 {{< /callout >}}

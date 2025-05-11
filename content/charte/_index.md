@@ -1,6 +1,6 @@
 ---
 title: Chartes de l'association
-linkTitle: Chartes asso
+linkTitle: Chartes de l'asso
 summary: Chartes de l'association
 date: '2025-05-07'
 type: book
@@ -14,5 +14,7 @@ image:
 ## Chartes de l'association
 
 {{< list_children >}}
+
+## Autres chartes
 
 L'association met également à disposition de ses adhérents le [contrat d’engagement républicain](https://www.mathsetmaryam.fr/u/BP_Montpellier_contrat_engagement_republicain.pdf).
