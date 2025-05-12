@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: custom # under assets/css/custom.toml
   theme_night: 
-  font: minimal
+  font: native # or custom font under data/fonts/my-font.toml
   font_size: L
 
 # SEO
@@ -61,9 +61,9 @@ locale:
 # Site features
 
 features:
-  syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+  #syntax_highlighter:
+  #  theme_light: github-light
+  #  theme_dark: dracula
   math:
     enable: true
   privacy_pack:

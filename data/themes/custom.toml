@@ -3,18 +3,18 @@ name = "Custom Theme"
 
 [light]
   # Primary
-  primary = "#0072ff"
+  primary = "#ff3860"
 
   # Links
-  link = "#3273dc"
-  link_hover = "rgb(54, 54, 54)"
+  link = "#ff3860"
+  link_hover = "#c31e33"
 
   # Menu
-  menu_primary = "rgb(153,238,255)"
-  menu_text = "#000"
-  menu_text_active = "#0072ff"
-  menu_title = "#000"
+  menu_primary = "#ff3860"
+  menu_text = "#fff"
+  menu_text_active = "#d0ff38"
+  menu_title = "#fff"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(255, 255, 255)"
+  home_section_odd = "#fff"
+  home_section_even = "#fff"
