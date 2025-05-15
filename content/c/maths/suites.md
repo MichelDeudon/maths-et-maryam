@@ -24,28 +24,28 @@ Certaines suites peuvent s'écrire comme des fonctions définies sur l'ensemble 
 \begin{equation*}
     u_{n}=f(n)
 \end{equation*}
-Par exemple, $u_n=2 \times n$ permet de définir la suite des nombres paires 0, 2, 4... notée $u_0$, $u_1$, $u_2$... La fonction $f$ dépend du problème étudié. Lorsqu'elle est ==explicite==, on peut calculer les termes d’une suite en <i>remplacant</i> $n$ dans l'expression $u_n = f(n)$. Par exemple, pour calculer $u_3$ il suffit de calculer $u_3=2 \times 3 = 6$. On peut aussi lire $u_3$ graphiquement à partir de la courbe représentative de $f$.
+Par exemple, $u_n=2 \times n$ permet de définir la suite des nombres paires 0, 2, 4... notée $u_0$, $u_1$, $u_2$... La fonction $f$ dépend du problème étudié. Lorsqu'elle est <mark>explicite</mark>, on peut calculer les termes d’une suite en <i>remplacant</i> $n$ dans l'expression $u_n = f(n)$. Par exemple, pour calculer $u_3$ il suffit de calculer $u_3=2 \times 3 = 6$. On peut aussi lire $u_3$ graphiquement à partir de la courbe représentative de $f$.
 
 {{< figure src="maths/suites.png" caption="Exemple d'une suite arithmétique (les nombres paires en bleu, $+2$) et d'une suite géométrique (les puissances de 2 en rouge, $\times 2$).">}}
 
 #### Relation de récurrence
-Certaines suites s'écrivent à l'aide d'une <i>condition initiale</i> (premier terme donné $u_0 = a$) et d'une ==relation de récurrence== qui traduit une évolution: Pour tout entier naturel $n$,
+Certaines suites s'écrivent à l'aide d'une <i>condition initiale</i> (premier terme donné $u_0 = a$) et d'une <mark>relation de récurrence</mark> qui traduit une évolution: Pour tout entier naturel $n$,
 \begin{equation*}
   \begin{array}{l}
     u_{n+1} = u_n + gains - pertes
   \end{array}
 \end{equation*}
 Par exemple, $u_{0}=0$ et $u_{n+1} = u_n +2$ permet de définir la suite des nombres paires 0, 2, 4... Autre exemple, la suite de Fibonacci, définie par $u_0=0$, $u_1=1$ et $u_{n+1}=u_{n}+u_{n-1}$, est reliée au <i>nombre d'or</i> qui a de nombreuses application artistiques, notamment en photographie.
-On peut aussi modéliser l'évolution d'une population à l'aide de la suite $u_{n+1} = u_n + \tau \times u_n = (1 + \tau) \times u_n $, $\tau$ s'interprête comme le ==taux d'accroissement==.
+On peut aussi modéliser l'évolution d'une population à l'aide de la suite $u_{n+1} = u_n + \tau \times u_n = (1 + \tau) \times u_n $, $\tau$ s'interprête comme le <mark>taux d'accroissement</mark>.
 
 
 Pour calculer les termes successifs d'une suite récurrente, il suffit de <i>remplacer</i> $n$ dans l'expression précédente. En prenant $n=0$, on calcule $u_{1}$ à partir du premier terme $u_0$, puis avec $n=1$, on calcule $u_{2}$ à partir de $u_1$, etc. On peut aussi construire successivement $u_1$, $u_2$, $u_3$... graphiquement, en utilisant la droite d'équation $y=x$.
 
 ### Sens de variation et limite
 
-La suite $(u_n)$ ==tend vers $+ \infty$==, notée $\lim\limits_{\substack{n \to +\infty}} u_n = +\infty$, si tout intervalle de la forme [A;$+\infty$[ contient toutes les valeurs $u_n$ à partir d'un certain entier $n_0$.
+La suite $(u_n)$ <mark>tend vers $+ \infty$</mark>, notée $\lim\limits_{\substack{n \to +\infty}} u_n = +\infty$, si tout intervalle de la forme [A;$+\infty$[ contient toutes les valeurs $u_n$ à partir d'un certain entier $n_0$.
 %De manière analogue, on définit une suite qui tend vers $-\infty$.
-La suite $(u_n)$ ==converge vers le réel $l$==, notée $\lim\limits_{\substack{n \to +\infty}} u_n = l$, si tout intervalle ouvert contenant $l$ contient toutes les valeurs $u_n$ à partir d'un certain entier $n_0$.
+La suite $(u_n)$ <mark>converge vers le réel $l$</mark>, notée $\lim\limits_{\substack{n \to +\infty}} u_n = l$, si tout intervalle ouvert contenant $l$ contient toutes les valeurs $u_n$ à partir d'un certain entier $n_0$.
 
 <b>Théorème</b>: Toute suite croissante majorée (ou décroissante minorée) converge.
 
@@ -53,8 +53,8 @@ La suite $(u_n)$ ==converge vers le réel $l$==, notée $\lim\limits_{\substack{
 
 ### Suites arithmétiques et géométriques
 
-Une ==suite arithmétique== est une suite dans laquelle chaque terme s'obtient à partir du précédent, en lui ajoutant une constante $\textbf{r}$ appelée raison (ou gain). 
-Une ==suite géométrique== est une suite dans laquelle chaque terme s'obtient à partir du précédent, en le multipliant par un facteur constant $\textbf{q}$ appelé raison (ou gain). 
+Une <mark>suite arithmétique</mark> est une suite dans laquelle chaque terme s'obtient à partir du précédent, en lui ajoutant une constante $\textbf{r}$ appelée raison (ou gain). 
+Une <mark>suite géométrique</mark> est une suite dans laquelle chaque terme s'obtient à partir du précédent, en le multipliant par un facteur constant $\textbf{q}$ appelé raison (ou gain). 
 
 
 |  | Suite arithmétique (+) | Suite géométrique (x) |
@@ -65,15 +65,11 @@ Une ==suite géométrique== est une suite dans laquelle chaque terme s'obtient �
 | Récurrence | $u_{n+1}=u_{n}+r$ | $u_{n+1}=q\times u_{n}$ |
 | Caractérisation | $u_{n+1}-u_n=r$ (constant) | $\frac{u_{n+1}}{u_n}=q$ (constant) |
 | Variations | Constantes | Proportionnelles à $u_n$ |
-| Évolution | Linéaire | Affine & Exponentielle |
+| Évolution | Linéaire / Affine | Exponentielle |
 | Cas particulier | $r=0$  | $q=1$ ou $u_0= 0$ |
-| Sens de variation | $\nearrow$ si $r > 0$  | $\nearrow$ si $q>1$ et $u_0\geq 0$ |  
-|  | | ou $q\in [0;1[$ et $u_0 \leq 0$ |
-|  | | \searrow$ si $r < 0$ & $\searrow$ si $q\in [0;1[$ et $u_0\geq 0$ |
-|  | |  ou $q > 1$ et $u_0\leq 0$ |
-|  | | Non monotone si $q < 0$ |
-| Limite |  $\lim\limits_{\substack{n \to +\infty}} u_n = +\infty$ si $r > 0$ | $\lim\limits_{\substack{n \to +\infty}} u_n = 0$ si $|q|<1$ |
-| | $\lim\limits_{\substack{n \to +\infty}} u_n = -\infty$ si $r < 0$ | $\lim\limits_{\substack{n \to +\infty}} |u_n| = +\infty$ si $|q|>1$ | 
+| Sens de variation | Dépend de $r$  | Dépend de $u_0$ et $q$ |
+| Limite |  $\lim\limits_{\substack{n \to +\infty}} u_n = +\infty$ si $r > 0$ | $\lim\limits_{\substack{n \to +\infty}} u_n = 0$ si $\left\lvert q \right\rvert <1$ |
+| | $\lim\limits_{\substack{n \to +\infty}} u_n = -\infty$ si $r < 0$ | $\lim\limits_{\substack{n \to +\infty}} $\left\lvert u_n \right\rvert$ = +\infty$ si $\left\lvert q \right\rvert >1$ | 
 |$u_0 + u_1 + ... + u_n = $  | $(n+1)u_0 + \frac{n(n+1)r}{2}$ | $u_{0}{\frac {1-q^{n+1}}{1-q}}$ |
 |Cas particulier | $1+2+...+n= \frac{n(n+1)}{2}$ | $1 + q + … + q^n = {\frac {1-q^{n+1}}{1-q}}$ |
 
