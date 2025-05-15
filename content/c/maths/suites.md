@@ -15,7 +15,7 @@ Introduction à l'analyse.
 
 ## Introduction aux suites réelles
 
-Les suites peuvent modéliser des phénomènes <i>discrets</i>, comme l'évolution du stock de livres d'une médiathèque à l'année $n$, $n+1$... (temps <i>discret</i>) ou l'évolution d’une population en écologie (on peut citer les modèles de Malthus et de Verhulst en dynamiques de populations, ou encore les modèles de proie prédateur avec 2-3 suites récurrentes couplées). Ce dernier cas permet d'étudier par exemple l'effet de la réintroduction de loups dans le parc de Yellowstone.
+Les suites peuvent modéliser des phénomènes <i>discrets</i>, comme l'évolution du stock de livres d'une médiathèque à l'année $n$, $n+1$... (temps <i>discret</i>) ou l'évolution d’une population en écologie (on peut citer les modèles de Malthus et de Verhulst en dynamiques de populations, ou encore les modèles de proie prédateur avec 2-3 suites récurrentes couplées). Ce dernier cas permet d'étudier par exemple l'effet de la [réintroduction de loups dans le parc de Yellowstone](https://www.sciencesetavenir.fr/animaux/biodiversite/le-retour-des-loups-dans-le-parc-de-yellowstone-profite-aux-arbres_184003).
  
 ### Représentations d'une suite
 
@@ -43,8 +43,8 @@ Pour calculer les termes successifs d'une suite récurrente, il suffit de <i>rem
 
 ### Sens de variation et limite
 
-La suite $(u_n)$ <mark>tend vers $+ \infty$</mark>, notée $\lim\limits_{\substack{n \to +\infty}} u_n = +\infty$, si tout intervalle de la forme [A;$+\infty$[ contient toutes les valeurs $u_n$ à partir d'un certain entier $n_0$.
-%De manière analogue, on définit une suite qui tend vers $-\infty$.
+La suite $(u_n)$ <mark>tend vers $+ \infty$</mark>, notée $\lim\limits_{\substack{n \to +\infty}} u_n = +\infty$, si tout intervalle de la forme [A;$+\infty$[ contient toutes les valeurs $u_n$ à partir d'un certain entier $n_0$. De manière analogue, on définit une suite qui tend vers $-\infty$.
+
 La suite $(u_n)$ <mark>converge vers le réel $l$</mark>, notée $\lim\limits_{\substack{n \to +\infty}} u_n = l$, si tout intervalle ouvert contenant $l$ contient toutes les valeurs $u_n$ à partir d'un certain entier $n_0$.
 
 <b>Théorème</b>: Toute suite croissante majorée (ou décroissante minorée) converge.
@@ -69,11 +69,11 @@ Une <mark>suite géométrique</mark> est une suite dans laquelle chaque terme s'
 | Cas particulier | $r=0$  | $q=1$ ou $u_0= 0$ |
 | Sens de variation | Dépend de $r$  | Dépend de $u_0$ et $q$ |
 | Limite |  $\lim\limits_{\substack{n \to +\infty}} u_n = +\infty$ si $r > 0$ | $\lim\limits_{\substack{n \to +\infty}} u_n = 0$ si $\left\lvert q \right\rvert <1$ |
-| | $\lim\limits_{\substack{n \to +\infty}} u_n = -\infty$ si $r < 0$ | $\lim\limits_{\substack{n \to +\infty}} $\left\lvert u_n \right\rvert$ = +\infty$ si $\left\lvert q \right\rvert >1$ | 
+| | $\lim\limits_{\substack{n \to +\infty}} u_n = -\infty$ si $r < 0$ | $\lim\limits_{\substack{n \to +\infty}} \left\lvert u_n \right\rvert = +\infty$ si $\left\lvert q \right\rvert >1$ | 
 |$u_0 + u_1 + ... + u_n = $  | $(n+1)u_0 + \frac{n(n+1)r}{2}$ | $u_{0}{\frac {1-q^{n+1}}{1-q}}$ |
 |Cas particulier | $1+2+...+n= \frac{n(n+1)}{2}$ | $1 + q + … + q^n = {\frac {1-q^{n+1}}{1-q}}$ |
 
 ### Exercices résolus
 
-- [Livret de la 1ère à la terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf): Exerices 18 à 28 sur les suites.
-- [Livret de la terminale au supérieur](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf): Exerice 6 sur les suites.
+- [Livret de la 1ère à la terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf): Exerices 18 à 28.
+- [Livret de la terminale au supérieur](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf): Exerice 6.
