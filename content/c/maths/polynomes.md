@@ -96,7 +96,7 @@ Enfin, la forme canonique d’un polynôme du second degré s'écrit sous la for
 \end{equation*}
 
 ### Exercices résolus
-- [Livret de la 3ème à la 2nde](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf): Exercices 21 à 43.
+- [Livret de la 3ème à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf): Exercices 21 à 43.
 - [Livret de la 2nde à la 1ère](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-2nde-1ere.pdf): Exercices 13 à 22 et 35 à 58.
-- [Livret de la 1ère à la terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf): Exerices 1 à 17.
-- [Livret de la terminale au supérieur](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf): Exerices 1 à 3.
+- [Livret de la 1ère à la terminale](https://lycee-henri4.com/wp-content/uploads/2024/07/Livret-1ere-Term-2024-07-.pdf): Exercices 1 à 17.
+- [Livret de la terminale au supérieur](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf): Exercices 1 à 3.
