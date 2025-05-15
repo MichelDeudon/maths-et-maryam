@@ -1,5 +1,5 @@
 ---
-title: Polynomes du second degré.
+title: Polynomes du 2nd degré
 date: '2025-05-15'
 type: book
 weight: 20
@@ -9,7 +9,7 @@ tags:
   - Suites réelles
 ---
 
-Introduction à l'algèbre.
+Introduction à l'algèbre (partie I).
 
 <!--more-->
 
@@ -23,15 +23,15 @@ Introduction à l'algèbre.
 En pratique, c'est plus difficile de factoriser que de développer. Les identités remarquables peuvent aider à factoriser une expression et donc étudier le signe d'une expression écrite sous la forme d'un produit.
 
 \begin{equation*}
-    (a - b)(a + b) = a^2 - b^2
+    (a - b)\times (a + b) = a^2 - b^2
 \end{equation*}
     
 \begin{equation*}
-    (a - b)^2 = a^2 - 2ab + b^2
+    (a - b)^2 = a^2 - 2\times a\times b + b^2
 \end{equation*}
 
 \begin{equation*}
-    (a + b)^2 = a^2 + 2ab + b^2
+    (a + b)^2 = a^2 + 2\times a\times b + b^2
 \end{equation*}
     
 On appelle <mark>forme factorisée</mark> (sous forme d'une multiplication) le terme de gauche et <mark>forme développée</mark> (sous forme d'une addition) le terme de droite dans les égalités précédentes.
@@ -52,6 +52,8 @@ On appelle <mark>racines</mark> d'un polynome ou d'une équation les solutions d
 
 <b>Propriété</b>
 Un polynôme de degré n admet au plus n racines. 
+
+### Forme factorisée
 Lorsqu'une équation du second degré admet deux racines, en les notant $x_1$ et $x_2$, nous pouvons écrire $f(x)$ sous la forme factorisée:
 
 
@@ -84,6 +86,8 @@ Lorsque $\Delta$ est strictement négatif, le polynome ne s'annule jamais, son s
 \begin{equation*}
     x_2 = \frac{-b+\sqrt{\Delta}}{2\times a}
 \end{equation*}
+
+### Forme canonique
 
 Enfin, la forme canonique d’un polynôme du second degré s'écrit sous la forme suivante. Elle est adaptée pour résoudre une équation, inéquation ou étudier les variations et extremum d'un polynôme.
 

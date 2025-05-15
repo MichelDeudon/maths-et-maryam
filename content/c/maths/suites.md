@@ -9,7 +9,7 @@ tags:
   - Suites réelles
 ---
 
-Introduction à l'analyse.
+Introduction à l'analyse (partie I).
 
 <!--more-->
 
