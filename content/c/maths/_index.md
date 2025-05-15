@@ -45,7 +45,7 @@ Merci aux enseignants de mathématiques du lycée Henri IV et Louis Le Grand !
 
 ## Enseignement supérieur
 
-Cours de maths dispensés à l'université Paul Valéry Montpellier 3, en [licence et master MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs):
+Cours de maths dispensés au lycée et à l'université Paul Valéry Montpellier 3, en [licence et master MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs):
 
 {{< list_children >}}
 
