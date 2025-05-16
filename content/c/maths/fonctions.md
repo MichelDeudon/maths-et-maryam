@@ -1,5 +1,5 @@
 ---
-title: Fonctions réels
+title: Fonctions réelles
 date: '2025-05-15'
 type: book
 weight: 20
@@ -15,7 +15,7 @@ Introduction à l'analyse (partie II).
 
 ## Introduction aux fonctions d'une variable réelle
 
-Les fonctions permettent de modéliser et étudier divers phénomènes (qui dépendent du temps), issus de la biologie, de la physique, des sciences économiques et sociales... Elle peuvent par exemple modéliser l'évolution du stock de livre d'une médiathèque chaque mois (le temps est discret) ou modéliser des températures et des marées (le temps est continu).
+Les fonctions permettent de modéliser et étudier divers phénomènes, issus de la biologie, de la physique, des sciences économiques et sociales... Elle peuvent par exemple modéliser l'évolution du stock de livre d'une médiathèque chaque mois (le temps est discret) ou modéliser des températures et des marées (le temps est continu).
 
 On appelle <mark>courbe représentative</mark> de la fonction $f$, l'ensemble des points M du plan de coordonnées $(x,y)$ qui vérifient l'équation $y = f(x)$. On dit dans ce cas que le point M appartient à la courbe représentative de f.
 
@@ -57,11 +57,7 @@ On appelle <mark>fonction inverse</mark>, représentée par une hyperbole, la fo
 
 On appelle <mark>fonctions trigonométriques</mark> les fonctions cosinus, sinus et tangente.
 
-\begin{figure}
-	\centering
-	\includegraphics[width=0.9\linewidth]{../img/trigo.png}.
-     \caption{Fonctions trigonométriques cosinus et sinus. On dit que la fonction cosinus est <mark>paire</mark>, elle vérifie $f(-x)=f(x)$ pour tout réel x (la courbe est symétrique par rapport à l'axe (Oy)). On dit que la fonction sinus est <mark>impaire</mark>, elle vérifie $f(-x)=-f(x)$ pour tout réel x (la courbe est symétrique par rapport à l'origine O). On dit aussi que ces fonctions sont <mark>périodiques</mark>, de période $2\times \pi$: pour tout réel $x$, elles vérifient $f(x+2\times\pi) = f(x)$.}
-\end{figure}
+{{< figure src="maths/trigo.png" caption="Fonctions trigonométriques cosinus et sinus. On dit que la fonction cosinus est <mark>paire</mark>, elle vérifie $f(-x)=f(x)$ pour tout réel x (la courbe est symétrique par rapport à l'axe (Oy)). On dit que la fonction sinus est <mark>impaire</mark>, elle vérifie $f(-x)=-f(x)$ pour tout réel x (la courbe est symétrique par rapport à l'origine O). On dit aussi que ces fonctions sont <mark>périodiques</mark>, de période $2\times \pi$: pour tout réel $x$, elles vérifient $f(x+2\times\pi) = f(x)$.">}}
 
 ### Continuité et limites
 
@@ -79,7 +75,7 @@ On dit qu'une fonction $f$ est <mark>continue</mark> en un point $a$ si $\lim\li
 
 <b>Théorème des valeurs intermédiaires</b>: Si $f$ est continue sur $[a,b]$ et $k$ est compris entre $f(a)$ et $f(b)$, alors l'équation $f(x) = k$ admet des solutions (démonstration par dichotomie). Lorsque $f$ est strictement monotone, la solution est unique.
 
-### Variations, dérivabilité, extremum, convexité
+### Variations, dérivabilité et extremum
 
 #### Nombre dérivé (local)
 
@@ -116,7 +112,7 @@ On appelle <mark>extremum</mark> de la courbe un minimum ou maximum de cette cou
 
 <b>Propriété</b>: Si $f$ est dérivable en $a$ et $a$ est un extremum de la courbe de $f$, alors $f'(a)=0$. Dans ce cas, la tangente à la courbe représentative est horizontale.
 
-#### Fonction dérivée (globale)} 
+#### Fonction dérivée (globale)}
 
 On dit qu'une fonction $f$ est <mark>dérivable</mark>
 sur un intervalle $I$ si elle admet un nombre dérivée en chaque point. Dans ce cas on appelle <mark>fonction dérivée</mark> la fonction $f'(x)$. Elle est utile pour étudier le sens de variation et les extremums d'une fonction. En effet, si $f'$ est positif, la fonction $f$ croit et si $f'$ est négatif, la fonction $f$ décroit. Ceci permet de dresser un tableau de variations de la fonction $f$ et chercher d'éventuels extremum (problème d'optimisation) en cherchant les antécédants de $0$ par $f'$. 
@@ -128,9 +124,9 @@ sur un intervalle $I$ si elle admet un nombre dérivée en chaque point. Dans ce
 | Fonction | Domaine $D_f$ | Dérivée | Domaine $D_{f'}$ |
 |---|---|---|---|
 | $f(x) = x$   | $\mathbb{R}$ | $f'(x) = 1$        | $\mathbb{R}$ |
-| $f(x) = x^2$ | $\mathbb{R}$ | $f'(x) = 2x$       | $\mathbb{R}$ |
-| $f(x) = x^3$ | $\mathbb{R}$ | $f'(x) = 3x^2$     | $\mathbb{R}$ |
-| $f(x) = x^n$ |  Dépend de n | $f'(x) = nx^{n-1}$ | Dépend de n  |
+| $f(x) = x^2$ | $\mathbb{R}$ | $f'(x) = 2\times x$       | $\mathbb{R}$ |
+| $f(x) = x^3$ | $\mathbb{R}$ | $f'(x) = 3\times x^2$     | $\mathbb{R}$ |
+| $f(x) = x^n$ |  Dépend de n | $f'(x) = n\times x^{n-1}$ | Dépend de n  |
 
 
 On a aussi les propriétés suivantes pour des fonctions dérivables: 

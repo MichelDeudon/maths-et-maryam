@@ -2,7 +2,7 @@
 title: Optimisation et Régularisation
 date: '2023-01-23'
 type: book
-weight: 50
+weight: 60
 math: true
 tags:
   - Regression lineaire

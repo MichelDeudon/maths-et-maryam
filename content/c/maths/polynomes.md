@@ -2,7 +2,7 @@
 title: Polynomes du 2nd degré
 date: '2025-05-15'
 type: book
-weight: 30
+weight: 40
 math: true
 tags:
   - Algèbre
