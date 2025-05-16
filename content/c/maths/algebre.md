@@ -2,7 +2,7 @@
 title: Algèbre II
 date: '2023-01-23'
 type: book
-weight: 30
+weight: 40
 math: true
 tags:
   - Algebre linéaire

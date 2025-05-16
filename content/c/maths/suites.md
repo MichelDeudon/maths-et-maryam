@@ -73,7 +73,7 @@ Une <mark>suite géométrique</mark> est une suite dans laquelle chaque terme s'
 |$u_0 + u_1 + ... + u_n = $  | $(n+1)u_0 + \frac{n(n+1)r}{2}$ | $u_{0}{\frac {1-q^{n+1}}{1-q}}$ |
 |Cas particulier | $1+2+...+n= \frac{n(n+1)}{2}$ | $1 + q + … + q^n = {\frac {1-q^{n+1}}{1-q}}$ |
 
-### Exercices résolus
+## Exercices résolus
 
 - [Livret de la 1ère à la terminale](https://lycee-henri4.com/wp-content/uploads/2024/07/Livret-1ere-Term-2024-07-.pdf): Exerices 18 à 28.
 - [Livret de la terminale au supérieur](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf): Exerice 6.
