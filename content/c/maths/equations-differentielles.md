@@ -2,7 +2,7 @@
 title: Equa diff et Primitives
 date: '2025-05-15'
 type: book
-weight: 30
+weight: 40
 math: true
 tags:
   - Analyse
@@ -42,16 +42,32 @@ Pour une condition initiale donnée, par exemple $U_c(t=0)=0$ ou $T(t=0)=T_{0}$,
 ## Introduction aux primitives
 
 On appelle <mark>primitive</mark> d’une fonction $f$ continue sur un intervalle $I$, une fonction $F$ qui vérifie $F'=f$, autrement dit une solution de l’équation différentielle $y’ = f$.  La recherche d’une primitive est l’opération inverse de la dérivation, ce qui permet de traiter les cas usuels par lecture inverse du tableau des dérivées.
-A noter que deux primitives d’une même fonction continue sur un intervalle diffèrent seulement d’une constante $k$. 
+A noter que deux primitives d’une même fonction continue sur un intervalle diffèrent seulement d’une constante. 
 
 | Fonction | Domaine $D_f$ | Primitive | Domaine $D_{F}$ |
 |---|---|---|---|
-| $f(x) = 1$ | $\mathbb{R}$ | $F(x) = x+k$  | $\mathbb{R}$ |
-| $f(x) = x$ | $\mathbb{R}$ | $F(x) = \frac{1}{2}x^2+k$  | $\mathbb{R}$ |
-| $f(x) = x^n$ |  Dépend de n | $F(x) = \frac{x^{n+1}}{n+1} + k$ | Dépend de n |
-| $f(x) = e^x$ | $\mathbb{R}$ | $F(x) = e^x+k$  | $\mathbb{R}$ |
-| $f(x) = sinus(x)$ |  $\mathbb{R}$ | $F(x) = -cosinus(x)$ | $\mathbb{R}$ |
-| $f(x) = cosinus(x)$ |  $\mathbb{R}$ | $F(x) = sinus(x) + k$ | $\mathbb{R}$ |
+| $f(x) = 0$ | $\mathbb{R}$ | $F(x) = k$  | $\mathbb{R}$ |
+| $f(x) = 1$ | $\mathbb{R}$ | $F(x) = x$  | $\mathbb{R}$ |
+| $f(x) = x$ | $\mathbb{R}$ | $F(x) = \frac{1}{2}\times x^2$  | $\mathbb{R}$ |
+| $f(x) = x^n$ |  Dépend de n | $F(x) = \frac{x^{n+1}}{n+1}$ | Dépend de n |
+| $f(x) = e^x$ | $\mathbb{R}$ | $F(x) = e^x$  | $\mathbb{R}$ |
+| $f(x) = \frac{1}{x}$ | $x\neq0 $ | $F(x) = ln(x)$  | $]0,+\infty[$ |
+| $f(x) = sin(x)$ |  $\mathbb{R}$ | $F(x) = -cos(x)$ | $\mathbb{R}$ |
+| $f(x) = cos(x)$ |  $\mathbb{R}$ | $F(x) = sin(x)$ | $\mathbb{R}$ |
+
+
+On a aussi les propriétés suivantes pour trouver des primitives de fonctions plus complexes, en reconnaissant la dérivée d’une fonction de référence:
+
+
+| Fonction |  Primitive |
+|---|---|
+|$f'+g'$ | $f+g$ |
+|$f'\times g + f \times g'$ | $f\times g$ |
+|$u' \times u^n$ | $\frac{u^{n+1}}{n+1}$ |
+|$\frac{u'}{u}$ | $ln(u)$ |
+|$\frac{u'}{\sqrt{u}}$ | $2\times \sqrt{u}$ |
+|$u' \times e^u$ | $e^u$ |
+
 
 <b>Théorème</b>: Toute fonction continue sur un intervalle admet des primitives. 
 

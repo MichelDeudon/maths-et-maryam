@@ -2,7 +2,7 @@
 title: Suites réelles
 date: '2025-05-15'
 type: book
-weight: 10
+weight: 20
 math: true
 tags:
   - Analyse

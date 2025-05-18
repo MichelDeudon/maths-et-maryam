@@ -43,7 +43,7 @@ Une sélection d'exercices de mathématiques et solutions par niveaux:
 
 Merci aux enseignants de mathématiques du lycée Henri IV et Louis Le Grand !
 
-## Enseignement supérieur
+## Lycée et supérieur
 
 Cours de maths dispensés au lycée et à l'université Paul Valéry Montpellier 3, en [licence et master MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs):
 

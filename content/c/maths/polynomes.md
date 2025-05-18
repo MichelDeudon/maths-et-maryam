@@ -2,10 +2,11 @@
 title: Polynomes du 2nd degré
 date: '2025-05-15'
 type: book
-weight: 40
+weight: 50
 math: true
 tags:
   - Algèbre
+  - Calcul littéral
   - Polynomes
 ---
 

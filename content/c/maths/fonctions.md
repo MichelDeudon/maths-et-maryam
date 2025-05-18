@@ -2,7 +2,7 @@
 title: Fonctions réelles
 date: '2025-05-15'
 type: book
-weight: 20
+weight: 30
 math: true
 tags:
   - Analyse
