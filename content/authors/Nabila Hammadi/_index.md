@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Élève-Tutrice
+role: Co-présidente
 
 # Organizations/Affiliations
 organizations:

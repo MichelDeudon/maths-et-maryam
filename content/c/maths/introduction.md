@@ -55,13 +55,13 @@ Pour rappel, voici quelques règles de calcul pour les fractions:
     \frac{\frac{1}{2}}{\frac{3}{4}} = \frac{1}{2} \times \frac{4}{3}
 \end{equation*}
 
-### Intervalles de $\mathbb{R}$}
+### Intervalles de $\mathbb{R}$
 
 On note $[0,1]$ l'ensemble des nombres réels compris entre 0 et 1, c'est un sous ensemble de $\mathbb{R}$.
-Graphiquement, les crochets $[A,B]$ permettent de représenter un segment et les parenthèses $()$ une droite. En combinant ces notations, on peut représenter des demi droites, par exemple l'ensemble des nombres réels positifs peut s'écrire $\mathbb{R}_+=[0,+\infty)$ et l'ensemble des nombres réels négatifs $\mathbb{R}_-=(-\infty,0]$.
+Graphiquement, les crochets $[A,B]$ permettent de représenter un segment et les parenthèses $()$ une droite. En combinant ces notations, on peut représenter des demi droites, par exemple l'ensemble des nombres réels positifs peut s'écrire $[0,+\infty)$ et l'ensemble des nombres réels négatifs $(-\infty,0]$.
 
 ### Autres symboles
-Le symbole $\forall$, appelé quantificateur universel, signifie "pour tout". Par exemple, pour tout entier naturel n... peut s'écrire $\forall n \in \mathbb{N}$... Le symbole $\exists$, appelé quantificateur existentiel, signifie "il existe". Par exemple, il existe un entier naturel... peut s'écrire $\exists n \in \mathbb{N}$... %Ces notations sont hors programme au lycée.
+Le symbole $\forall$, appelé quantificateur universel, signifie "pour tout". Par exemple, pour tout entier naturel n... peut s'écrire $\forall n \in \mathbb{N}$... Le symbole $\exists$, appelé quantificateur existentiel, signifie "il existe". Par exemple, il existe un entier naturel... peut s'écrire $\exists n \in \mathbb{N}$... 
 
 ## Logique
 
