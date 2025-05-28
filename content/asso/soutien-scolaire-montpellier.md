@@ -61,11 +61,11 @@ L'objectif du <b>tutorat</b> est d'encourager l'<b>entraide</b> et l'idée d'<b>
 ## FAQ
 
 {{< spoiler text="Combien ça coûte?" >}}
-Les stages et le soutien scolaire sont gratuits pour les élèves tuteurs, à prix libres pour les parents. Vous pouvez nous soutenir financièrement sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/2).
+Les stages et le soutien scolaire à prix libres. Vous pouvez nous soutenir financièrement sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/2).
 {{< /spoiler >}}
 
 {{< spoiler text="Comment s'inscrire?" >}}
-Pour les mineurs souhaitant participer aux activités et sorties, complétez et signez notre {{% staticref "u/Adhesion.pdf" %}}demande d'adhésion à l'association{{% /staticref %}} auprès de Morgann ou Michel.
+Pour les mineurs souhaitant participer aux activités et sorties, complétez et signez la [feuille d'adhésion à l'association](https://www.mathsetmaryam.fr/u/Adhesion.pdf).
 {{< /spoiler >}}
 
 {{< spoiler text="Que dois-je apporter?" >}}

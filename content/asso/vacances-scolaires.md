@@ -25,38 +25,18 @@ Agenda des activités et sorties à Montpellier.
 
 {{< figure src="roller/roller-dance-and-smile.png" caption="Cours collectifs de roller dance pendant les JO 2024 devant la médiathèque Pierresvives.">}}
 
+{{< figure src="roller/roller-pierresvives.jpg" caption="Cours collectifs de roller dance pendant les JO 2024 devant la médiathèque Pierresvives.">}}
+
 ### 📚 Stage de Pré Rentrée
 
 📍 À la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm). <br>
 📅 Du mardi 26 août au vendredi 29 août 2025. <br>
-🕕 De 17h00 à 20h.  <br>
+🕕 Plus d'information à venir.  <br>
 
 ### 💦 Grand Goûter et Jeux d'Eau
 
 📍 Au [parc Sophie Desmarets](https://www.montpellier.fr/structure/1526/240-parc-sophie-desmarets-structure.htm).  <br>
 📅 Samedi 30 août 2025. <br>
-🕕 De 15h30 à 19h.  <br>
-
-## Été 2024
-
-### 🎵 Stage de Roller Dance
-
-📍 [Esplanade de l'egalité](https://g.page/r/CV0JpobxDzTwEBM/review), devant la médiathèque Pierresvives. <br>
-📅 Les vendredi 12, 19, 26 juillet et 9, 16, 23 et 30 août 2024. <br>
-🕕 De 18h30 à 20h.  <br>
-
-{{< figure src="roller/roller-pierresvives.jpg" caption="Cours collectifs de roller dance pendant les JO 2024 devant la médiathèque Pierresvives.">}}
-
-### 📚 Stage de Pré Rentrée
-
-📍 Dans les locaux de l'[association ASSMR34](https://www.helloasso.com/associations/assamr34) et à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm). <br>
-📅 Du mardi 27 août au vendredi 30 août 2024. <br>
-🕕 De 17h00 à 20h.  <br>
-
-### 💦 Grand Goûter et Jeux d'Eau
-
-📍 Au [parc Sophie Desmarets](https://www.montpellier.fr/structure/1526/240-parc-sophie-desmarets-structure.htm).  <br>
-📅 Samedi 31 août 2024. <br>
 🕕 De 15h30 à 19h.  <br>
 
 {{< figure src="assos/gouter-pre-rentree.png" caption="Goûter de pré rentrée au parc Sophie Desmarets le 31 août 2024, jeux d'eau et atelier de peinture.">}}
