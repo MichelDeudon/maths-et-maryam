@@ -29,8 +29,8 @@ Les élèves-tuteurs et élèves-tutrices sont encouragés à <b>enseigner pour 
 * <b>Accompagner</b> une activité ou une sortie (théâtre, patinoire, classe verte, etc.).
 * <b>Faire le lien</b> avec les comités de vie lycéenne ou présenter un stage.
 
-<b>À partir de 14 ans, les missions peuvent donner lieu à une <b>gratification</b>. 
-<b>À partir de 16 ans, les élèves-tuteurs et élèves-tutrices peuvent <b>voter aux assemblées générales</b> et se présenter comme <b>co-président.e</b> au bureau de l’association. Le <b>droit de vote</b> des élèves-tuteurs et élèves-tutrices de moins de 16 ans est attribué au représentant légal.
+<b>À partir de 14 ans</b>, les missions peuvent donner lieu à une <b>gratification</b>. 
+<b>À partir de 16 ans</b>, les élèves-tuteurs et élèves-tutrices peuvent <b>voter aux assemblées générales</b> et se présenter comme <b>co-président.e</b> au bureau de l’association. Le <b>droit de vote</b> des élèves-tuteurs et élèves-tutrices de moins de 16 ans est attribué au représentant légal.
 
 <b>Attention au bien-être des jeunes</b> : Il est important de savoir repérer ses limites. Il ne faut pas s’oublier en voulant aider les autres. Les mentors et parrains/marraines de l’association sont à l’écoute des élèves tuteurs et élèves tutrices et peuvent les orienter si besoin.
 

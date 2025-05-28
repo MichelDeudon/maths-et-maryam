@@ -20,8 +20,8 @@ L’association Maths et Maryam a pour but d’<b>agir durablement en faveur d�
 
 Les bénévoles sont ceux qui s’engagent par choix dans l’association, en donnant de
 leur temps de manière ponctuelle ou régulière. Leurs rôles et missions sont plus particulièrement les suivants : 
-Les <b>mentors</b> sont d'anciens élèves diplômés ou des étudiants, majeurs, qui accompagnent et soutiennent des élèves-tuteurs.
-Les <b>membres d’honneur</b> sont des professionnels de l’animation, de l’éducation ou de l’enseignement supérieur et de la recherche. Ils soutiennent, facilitent et supervisent les actions des mentors et bénévoles, apportent crédibilité et conseils.
+* Les <b>mentors</b> sont d'anciens élèves diplômés ou des étudiants, majeurs, qui accompagnent et soutiennent des élèves-tuteurs.
+* Les <b>membres d’honneur</b> sont des professionnels de l’animation, de l’éducation ou de l’enseignement supérieur et de la recherche. Ils soutiennent, facilitent et supervisent les actions des mentors et bénévoles, apportent crédibilité et conseils.
 
 ## L’association s’engage…
 1. <b>à accueillir et considérer les bénévoles</b> comme des collaborateurs à part entière,
