@@ -10,6 +10,7 @@ tags:
 - Association cours de maths
 - Cours de maths Montpellier
 - Soutien scolaire Montpellier
+- Vacances scolaires
 ---
 
 Pour bien préparer son année.

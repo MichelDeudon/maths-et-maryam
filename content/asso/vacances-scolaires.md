@@ -7,6 +7,7 @@ highlight: true
 tags:
 - Roller Dance Montpellier
 - Roller Montpellier
+- Vacances scolaires
 - La Paillade
 - La Mosson
 ---
