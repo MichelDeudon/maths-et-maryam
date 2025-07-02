@@ -21,8 +21,8 @@ Agenda des activités et sorties à Montpellier.
 ### 🎵 Stage de Roller Dance
 
 📍 [Esplanade de l'egalité](https://g.page/r/CV0JpobxDzTwEBM/review), devant la médiathèque Pierresvives. <br>
-📅 Le jeudi 29 mai 2025 et plus de dates à venir en juin, juillet et septembre. <br>
-🕕 De 17h à 19h (en mai), de 18h à 20h (en juin), de 18h30 à 20h30 (en juillet).  <br>
+📅 Les jeudis 29 mai 2025, 12-19-26 juin, 3 et 10 juillet, et plus de dates à venir en septembre. <br>
+🕕 De 17h à 19h (en mai), de 18h à 20h (en juin), de 18h30 à 20h00 (en juillet).  <br>
 
 {{< figure src="roller/roller-dance-and-smile.png" caption="Cours collectifs de roller dance pendant les JO 2024 devant la médiathèque Pierresvives.">}}
 
