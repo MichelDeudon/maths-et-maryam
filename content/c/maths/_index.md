@@ -54,6 +54,7 @@ Cours de maths dispensés au lycée et à l'université Paul Valéry Montpellier
 - [Programme de mathématiques](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt) au lycée général/technologique (Eduscol).
 - Présentation du [Cycle Pluridisciplinaire d'Études Supérieures](https://www.enseignementsup-recherche.gouv.fr/fr/le-cycle-pluridisciplinaire-d-etudes-superieures-84197) (CPES) et des [Classes Préparatoires aux Grandes Écoles](https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496) (CPGE).
 - [Bibmath](https://www.bibmath.net/), la bibliothèque des mathématiques.
+- [MathALEA](https://coopmaths.fr/alea/), un générateur d'exercices de mathématiques proposé par [CoopMaths](https://coopmaths.fr/www/), une association à but non lucratif d'enseignants de mathématiques qui coopèrent pour créer des activités pédagogiques sous licences libres.
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown) et [Numberphile](https://www.youtube.com/user/Numberphile), des chaines Youtube pour les plus curieux.
 
 ## A imprimer

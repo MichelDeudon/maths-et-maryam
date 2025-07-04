@@ -47,7 +47,7 @@ Une initiation au slalom en roller a été proposée à un groupe de 8 filles le
 
 Une randonnée roller a également été proposée le dimanche 1er juin 2025 en partenariat avec l'<b>association ANSA</b>. 
 
-Nous avons également prévu d'animer des séances de roller dance et slalom en juin et juillet 2025 devant la <b>médiathèque Pierresvives</b>.
+Nous avons également prévu d'animer des séances de roller dance et slalom en [juin et juillet 2025](https://www.mathsetmaryam.fr/asso/vacances-scolaires/) devant la <b>médiathèque Pierresvives</b>.
 Plus d'infos à venir.
 
 {{< figure src="roller/rando-roller.jpg" caption="Randonnée en roller avec l'<b>association ANSA</b> le 1er juin 2025.">}}

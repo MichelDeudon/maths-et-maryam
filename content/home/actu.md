@@ -9,8 +9,8 @@ design:
 
 C'est <b>l'été</b> ☀️. [Au programme pendant ces vacances](https://www.mathsetmaryam.fr/asso/vacances-scolaires/):
 * Des entrainements de [roller dance](https://www.mathsetmaryam.fr/c/roller/) le jeudi de 18h à 20h devant la <b>Médiathèque Pierresvives</b> (jusqu'au 10 juillet inclus).
-* Des stages de pré-rentrée, du mardi 26 août au vendredi 29 août 2025 (plus d'informations à venir).
-* Un grand goûter et moment de convivialité prévus le samedi 30 août 2025 au parc Sophie Desmarets.
+* Un stage de pré-rentrée, du mardi 26 août au vendredi 29 août 2025 (plus d'informations à venir).
+* Un grand goûter et moment de convivialité prévus le samedi 30 août 2025 au <b>parc Sophie Desmarets</b>.
 
 <!--
 Le [soutien scolaire](https://www.mathsetmaryam.fr/asso/soutien-scolaire-montpellier/) à la <b>Médiathèque Pierresvives</b> reprendra le mercredi 30 avril et le vendredi 9 mai, de 17h à 19h, pour les <b>lycéens</b>. Le [soutien scolaire](https://www.mathsetmaryam.fr/asso/soutien-scolaire-montpellier/) à la <b>Maison Pour Tous Louis Feuillade</b> reprendra le jeudi 15 mai, de 17h à 18h pour les <b>primaires</b> et de 18h à 19h pour les <b>collégiens</b>.
@@ -20,6 +20,6 @@ Aussi, l'association est [lauréate du 1er budget participatif de la ville de Mo
 
 Enfin, nous avons mis en ligne nos premières [cartes sur le site ign.fr](https://macarte.ign.fr/utilisateur/Association-Maths-et-Maryam_RDjB). Cette [carte des voies de Montpellier Mediterranée Metropole](https://macarte.ign.fr/carte/Y85I3R/Analyse-de-genre-des-voies-de-Montpellier-Mediterranee-Metropole) par exemple fait ressortir le nom de Maryam Mirzakhani à qui nous rendons hommage. Nous avons également produit [une carte pour une chasse au trésor au Lac des Garrigues](https://macarte.ign.fr/carte/i6Lpyy/Chasse-aux-tresors-du-Lac-des-Garrigues) prévue en mai 2025.-->
 
-👉 On est à la recherche de bénévoles (étudiants, retraités, salariés...) à Montpellier et Lunel pour nous aider ponctuellement ou régulièrement, que ce soit pour l'aide aux devoirs, le soutien scolaire ou pour animer des ateliers, accompagner des sorties... Merci !
+👉 On est à la recherche de bénévoles (étudiants, retraités, salariés...) à <b>Montpellier</b> et <b>Lunel</b> pour nous aider ponctuellement ou régulièrement, que ce soit pour l'aide aux devoirs, le soutien scolaire ou pour animer des ateliers, accompagner des sorties... Merci !
 
 {{% cta cta_link="./u/Adhesion.pdf" cta_text="Adhérer à l'asso Maths et Maryam ✅" %}}
