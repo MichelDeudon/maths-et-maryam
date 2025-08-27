@@ -9,7 +9,7 @@ design:
 
 C'est <b>l'été</b> ☀️. [Au programme pendant ces vacances](https://www.mathsetmaryam.fr/asso/vacances-scolaires/):
 * Des entrainements de [roller dance](https://www.mathsetmaryam.fr/c/roller/) le jeudi de 18h à 20h devant la <b>Médiathèque Pierresvives</b> (jusqu'au 10 juillet inclus).
-* Un stage de pré-rentrée, du mardi 26 août au vendredi 29 août 2025 (plus d'informations à venir).
+* Un stage de pré-rentrée pour les lycéens, du mardi 26 août au vendredi 29 août 2025, de 16h30 à 17h à la <b>Médiathèque Pierresvives</b>.
 * Un grand goûter et moment de convivialité prévus le samedi 30 août 2025 au <b>parc Sophie Desmarets</b>.
 
 <!--
