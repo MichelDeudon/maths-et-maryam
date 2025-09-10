@@ -7,14 +7,11 @@ design:
   columns: '1'
 ---
 
-C'est <b>l'été</b> ☀️. [Au programme pendant ces vacances](https://www.mathsetmaryam.fr/asso/vacances-scolaires/):
-* Des entrainements de [roller dance](https://www.mathsetmaryam.fr/c/roller/) le jeudi de 18h à 20h devant la <b>Médiathèque Pierresvives</b> (jusqu'au 10 juillet inclus).
-* Un stage de pré-rentrée pour les lycéens, du mardi 26 août au vendredi 29 août 2025, de 16h30 à 17h à la <b>Médiathèque Pierresvives</b>.
-* Un grand goûter et moment de convivialité prévus le samedi 30 août 2025 au <b>parc Sophie Desmarets</b>.
+<b>Bonne rentrée</b> à toutes et à tous ☀️. 
+
+Le [soutien scolaire](https://www.mathsetmaryam.fr/asso/soutien-scolaire-montpellier/) à la <b>Médiathèque Pierresvives</b> reprendra le mercredi 24 septembre de 17h à 19h pour les <b>lycéens</b>. Le [soutien scolaire](https://www.mathsetmaryam.fr/asso/soutien-scolaire-montpellier/) à la <b>Maison Pour Tous Louis Feuillade</b> reprendra le jeudi 18 septembre, de 17h à 18h pour les <b>primaires</b> et de 18h à 19h pour les <b>collégiens</b>.
 
 <!--
-Le [soutien scolaire](https://www.mathsetmaryam.fr/asso/soutien-scolaire-montpellier/) à la <b>Médiathèque Pierresvives</b> reprendra le mercredi 30 avril et le vendredi 9 mai, de 17h à 19h, pour les <b>lycéens</b>. Le [soutien scolaire](https://www.mathsetmaryam.fr/asso/soutien-scolaire-montpellier/) à la <b>Maison Pour Tous Louis Feuillade</b> reprendra le jeudi 15 mai, de 17h à 18h pour les <b>primaires</b> et de 18h à 19h pour les <b>collégiens</b>.
-
 L'association Maths et Maryam est [reconnue d'intérêt général, à caractère éducatif](https://www.mathsetmaryam.fr/u/DGFIP_34_avis_favorable.pdf) par la Direction générale des Finances publiques de l'Hérault. Nous pouvons délivrer des reçus fiscaux à nos donateurs. Vous pouvez nous soutenir sur [Hello Asso](https://www.helloasso.com/associations/maths-et-maryam) 😊.
 Aussi, l'association est [lauréate du 1er budget participatif de la ville de Montpellier](https://www.mathsetmaryam.fr/u/BP_Montpellier_avis_favorable.pdf). Merci pour vos votes pour le projet [Roller Dance Montpellier](https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier) et à la ville de Montpellier pour son soutien. Le [contrat d'engagement républicain](https://www.mathsetmaryam.fr/u/BP_Montpellier_contrat_engagement_republicain.pdf) est disponible sur notre site. Merci également à Precy de l'[asso Roll School](https://www.rollschool.net/) pour son soutien à la réalisation du projet. On travaille sur une programmation de [roller danse](https://www..fr/c/roller/) pour l'été 2025.
 
