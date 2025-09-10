@@ -1,6 +1,6 @@
 ---
 title: Aide aux devoirs et soutien scolaire
-date: '2024-07-05'
+date: '2025-09-10'
 type: book
 weight: 10
 highlight: true
@@ -42,12 +42,14 @@ De la primaire au collège, lycée et études supérieures (prépa, licence, mas
 {{< figure src="assos/pre-rentree.png" caption="Supports de communication pour les stages de pré-rentrée.">}}
 -->
 
-## Emploi du temps 2024-2025
+## Emploi du temps 2025-2026
 
-📅 <b>Mercredi</b> de 15h à 18h, à la [Médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (lycée). <br>
-📅 <b>Jeudi</b> de 17h à 18h, à la [Maison Pour Tous L. Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (primaire). <br>
+📅 <b>Mercredi</b> de 17h à 19h, à la [Médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (lycée). <br>
 📅 <b>Jeudi</b> de 18h à 19h, à la [Maison Pour Tous L. Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (collège). <br>
+📅 <b>Jeudi</b> de 17h à 18h, à la [Maison Pour Tous L. Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (primaire). <br>
+<!-- 
 📅 <b>Vendredi</b> de 16h à 19h, à la [Médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (lycée). <br>
+-->
 
 ## Les avantages de Maths et Maryam
 
