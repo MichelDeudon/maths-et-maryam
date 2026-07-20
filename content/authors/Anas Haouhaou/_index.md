@@ -42,10 +42,10 @@ education:
       year:
 
 # Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:anas@mathsetmaryam.fr?subject=Contact'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:anas@mathsetmaryam.fr?subject=Contact'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

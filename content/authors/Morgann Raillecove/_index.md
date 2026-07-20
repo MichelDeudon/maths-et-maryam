@@ -46,9 +46,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:morgann@mathsetmaryam.fr?subject=Contact'
-  - icon: phone
-    icon_pack: fas
-    link: 'tel:0647095044'
+    
+#  - icon: phone
+#    icon_pack: fas
+#    link: 'tel:xxxxxxxxxx'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

@@ -10,7 +10,7 @@ last_name: Deudon
 superuser: true
 
 # Role/position
-role: Entrepreneur et co-président
+role: Enseignant et co-président
 
 # Organizations/Affiliations
 organizations:
@@ -45,15 +45,16 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:michel@mathsetmaryam.fr?subject=Contact'
-  - icon: phone
-    icon_pack: fas
-    link: 'tel:0613835412'
   - icon: github
     icon_pack: fab
     link: https://framagit.org/users/MichelDeudon/projects
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=p4RP5SoAAAAJ&hl=fr
+
+#  - icon: phone
+#    icon_pack: fas
+#    link: 'tel:xxxxxxxxxx'
 
 # Status emoji
 status:

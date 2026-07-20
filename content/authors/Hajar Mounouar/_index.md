@@ -36,10 +36,10 @@ bio: Short bio.
 #      year: 2025
 
 # Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:hajar@mathsetmaryam.fr?subject=Contact'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:hajar@mathsetmaryam.fr?subject=Contact'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
